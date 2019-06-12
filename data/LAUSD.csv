@@ -1,0 +1,910 @@
+School,Zip Code,Grades,Local District,Board District,complete_address,lat,long,arrest_0.5_mile,arrest_1_mile
+Frank Del Olmo Elementary,90004,K- 5,C,2-Monica Garcia,100 N New Hampshire Ave Los Angeles CA 90004,34.072925,-118.29259099999999,21,80
+10th Street Elementary,90015,1- 5,C,2-Monica Garcia,1000 Grattan St Los Angeles CA 90015,34.0483172,-118.2732352,20,106
+Elementary Community Day School,91311,K- 6,XS,3-Scott M Schmerelson,10001 Jumilla Ave Chatsworth CA 91311,34.2518249,-118.56337690000001,0,2
+Cesar E Chavez Learning Academy - Arts/Theatre/Entertain Mag,91340,9-12,NE,6-Kelly Gonez,1001 Arroyo Ave San Fernando CA 91340,34.2885136,-118.42101100000001,1,9
+San Pedro Senior High Gifted STEAM Magnet,90731,9-11,S,7-Dr Richard A Vladovic,1001 W 15th St San Pedro CA 90731,33.73037,-118.2993419,14,63
+Normont Elementary,90710,K- 5,S,7-Dr Richard A Vladovic,1001 W 253rd St Harbor City CA 90710,33.7947219,-118.2927652,7,22
+Stoney Point Continuation High,91311,9-12,NW,3-Scott M Schmerelson,10010 De Soto Ave Chatsworth CA 91311,34.252045700000004,-118.5881187,1,7
+Montara Avenue Elementary,90280,K- 6,E,5-Vacant,10018 Montara Ave South Gate CA 90280,33.9445932,-118.2177328,0,9
+Chatsworth Charter High School,91311,9-12,NW,3-Scott M Schmerelson,10027 Lurline Ave Chatsworth CA 91311,34.253423700000006,-118.58606609999998,2,7
+Our Community Charter School,91311,K- 8,XR,3-Scott M Schmerelson,10045 Jumilla Ave Chatsworth CA 91311,34.2526771,-118.56391570000001,0,2
+Teach Academy of Technologies,90047,5- 8,XR,1-Dr George J McKenna III,10045 S Western Ave Los Angeles CA 90047,33.944032799999995,-118.30938059999998,1,2
+Westminster Avenue Elementary Math/Tech/Env Studies Magnet,90291,K- 5,W,4-Nick Melvoin,1010 Abbot Kinney Blvd Venice CA 90291,33.9916065,-118.4722,184,229
+Matrix for Success Academy,90011,9-12,XR,5-Vacant,1010 E 34th St Los Angeles CA 90011,34.0121604,-118.2572762,14,41
+Ernest Lawrence Middle School Gifted Magnet,91311,6- 8,NW,3-Scott M Schmerelson,10100 Variel Ave Chatsworth CA 91311,34.2542079,-118.59184599999999,1,9
+Alliance Judy Ivie Burton Technology Academy High School,90003,9-12,XR,7-Dr Richard A Vladovic,10101 S Broadway Los Angeles CA 90003,33.9441138,-118.2786642,20,91
+Pinewood Avenue Elementary,91042,K- 5,NE,6-Kelly Gonez,10111 Silverton Ave Tujunga CA 91042,34.2531547,-118.28510849999999,8,11
+Haddon Ave Elementary STEAM Magnet,91331,1- 5,NE,6-Kelly Gonez,10115 Haddon Ave Pacoima CA 91331,34.253214899999996,-118.42113300000001,2,21
+Andasol Avenue Elementary,91325,K- 5,NW,3-Scott M Schmerelson,10126 Encino Ave Northridge CA 91325,34.254699,-118.514375,2,8
+Broadway Elementary,90291,K- 5,W,4-Nick Melvoin,1015 Lincoln Blvd Venice CA 90291,33.997769500000004,-118.46125819999999,24,122
+Extera Public School #2,90023,K- 1,XR,2-Monica Garcia,1015 S Lorena St Los Angeles CA 90023,34.0256614,-118.20272379999999,17,53
+Vinedale Elementary,91352,K- 6,NE,6-Kelly Gonez,10150 La Tuna Canyon Rd Sun Valley CA 91352,34.233958200000004,-118.35192479999999,0,8
+Dr James Edward Jones Primary Center,90037,K- 2,C,1-Dr George J McKenna III,1017 W 47th St Los Angeles CA 90037,34.0010041,-118.29221899999999,22,80
+Camino Nuevo Academy #4,90026,K- 8,XR,5-Vacant,1018 Mohawk St Los Angeles CA 90026,34.0764615,-118.2652252,5,22
+Soto Street Elementary,90023,K- 6,E,2-Monica Garcia,1020 S Soto St Los Angeles CA 90023,34.0316946,-118.21698310000001,14,45
+Santa Monica Boulevard Community,90038,K- 6,XR,4-Nick Melvoin,1022 N Van Ness Ave Los Angeles CA 90038,34.089580700000006,-118.3151905,39,164
+Apperson Street Elementary,91040,K- 5,NE,6-Kelly Gonez,10233 Woodward Ave Sunland CA 91040,34.2557573,-118.3074271,4,9
+Westside Global Awareness Magnet,90292,K- 8,W,4-Nick Melvoin,104 Anchorage St Marina Del Rey CA 90292,33.9791154,-118.464817,7,112
+Weigand Avenue Elementary,90002,K- 5,S,7-Dr Richard A Vladovic,10401 Weigand Ave Los Angeles CA 90002,33.9410882,-118.2299565,15,57
+Sally Ride Elementary: A Smart Academy,90011,K- 5,C,5-Vacant,1041 E 46th St Los Angeles CA 90011,34.002315100000004,-118.2567737,4,53
+Valley Academy of Arts and Sciences,91344,9-12,NW,3-Scott M Schmerelson,10445 Balboa Blvd Granada Hills CA 91344,34.2598026,-118.5027832,5,9
+Amestoy Elementary,90247,K- 5,S,7-Dr Richard A Vladovic,1048 W 149th St Gardena CA 90247,33.8957263,-118.293351,1,8
+West Hollywood Community Day School,90046,7-12,W,4-Nick Melvoin,1049 N Fairfax Ave West Hollywood CA 90046,34.0900009,-118.36183179999999,6,18
+Equitas Academy #3 Charter School,90015,K- K,XR,2-Monica Garcia,1050 Beacon Ave Los Angeles CA 90015,34.0485365,-118.2759098,22,107
+Aurora Elementary,90011,K- 5,C,7-Dr Richard A Vladovic,1050 E 52nd Pl Los Angeles CA 90011,33.99584040000001,-118.2571114,17,51
+Granada Hills Charter High School,91344,9-12,XR,3-Scott M Schmerelson,10535 Zelzah Ave Granada Hills CA 91344,34.2609052,-118.5253692,0,6
+Dorothy V Johnson Community Day School,90002,9-12,S,7-Dr Richard A Vladovic,10601 S Grandee Ave Los Angeles CA 90002,33.9391869,-118.2440331,24,86
+Teach Tech Charter High School,90047,9-12,XR,1-Dr George J McKenna III,10616 S Western Ave Los Angeles CA 90047,33.9394,-118.30879709999999,0,2
+Verdugo Hills Senior High,91042,9-12,NE,6-Kelly Gonez,10625 Plainview Ave Tujunga CA 91042,34.2613775,-118.2993739,5,10
+Overland Avenue Elementary,90064,K- 5,W,1-Dr George J McKenna III,10650 Ashby Ave Los Angeles CA 90064,34.038203499999995,-118.4212848,5,23
+"Girls Academic Leadership, Dr Michelle King School for STEM",90019,6-11,W,1-Dr George J McKenna III,1067 West Blvd Los Angeles CA 90019,34.05536970000001,-118.33145970000001,3,17
+Alliance Cindy & Bill Simon Technology Academy,90059,9-12,XR,7-Dr Richard A Vladovic,10720 S Wilmington Ave Los Angeles CA 90059,33.938494,-118.2387416,25,81
+Roscoe Elementary,91352,K- 5,NE,6-Kelly Gonez,10765 Strathern St Sun Valley CA 91352,34.2159951,-118.36653670000001,10,21
+Downtown Business Magnet,90012,9-12,C,2-Monica Garcia,1081 W Temple St Los Angeles CA 90012,34.0630446,-118.25041200000001,4,42
+Darby Avenue Elementary,91326,K- 5,NW,3-Scott M Schmerelson,10818 Darby Ave Porter Ranch CA 91326,34.266231299999994,-118.53318440000001,0,6
+Plainview Academic Charter Academy,91042,K- 5,NE,6-Kelly Gonez,10819 Plainview Ave Tujunga CA 91042,34.2655714,-118.29845309999999,1,7
+George Washington Preparatory Senior High,90047,9-12,W,1-Dr George J McKenna III,10860 S Denker Ave Los Angeles CA 90047,33.9372016,-118.30436940000001,0,11
+Palms Middle School,90034,6- 8,W,1-Dr George J McKenna III,10860 Woodbine St Los Angeles CA 90034,34.0235718,-118.4164463,0,10
+Tulsa Street Elementary,91344,K- 5,NW,3-Scott M Schmerelson,10900 Hayvenhurst Ave Granada Hills CA 91344,34.269231,-118.49235700000001,3,9
+Oxnard Street Elementary,91606,K- 5,NE,6-Kelly Gonez,10912 Oxnard St North Hollywood CA 91606,34.179155200000004,-118.36861119999999,4,33
+109th Street Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,10915 S Mc Kinley Ave Los Angeles CA 90059,33.9370458,-118.2616616,24,91
+Century Park Elementary,90303,K- 5,W,1-Dr George J McKenna III,10935 S Spinning Ave Inglewood CA 90303,33.9370316,-118.31919109999998,0,1
+Berenece Carlson Home School,91602,K-12,XS,3-Scott M Schmerelson,10952 Whipple St North Hollywood CA 91602,34.1478747,-118.368802,2,11
+Mount Gleason Middle School,91040,6- 8,NE,6-Kelly Gonez,10965 Mt Gleason Ave Sunland CA 91040,34.2686865,-118.30387140000002,2,8
+Telfair Avenue Elementary,91331,K- 5,NE,6-Kelly Gonez,10975 Telfair Ave Pacoima CA 91331,34.2687359,-118.43189890000001,10,37
+Alliance Morgan McKinzie High,90063,9-12,XR,2-Monica Garcia,110 S Townsend Ave Los Angeles CA 90063,34.0356467,-118.18775330000001,0,3
+Vox Collegiate of Los Angeles,90044,6- 6,XR,7-Dr Richard A Vladovic,1100 W Manchester Ave Los Angeles CA 90044,33.95962859999999,-118.2941828,14,48
+Mission Continuation High,91340,9-12,NE,6-Kelly Gonez,11015 O'Melveny Ave San Fernando CA 91340,34.270220200000004,-118.4399808,6,22
+Pacoima Elementary,91331,K- 5,XR,6-Kelly Gonez,11016 Norris Ave Pacoima CA 91331,34.27025689999999,-118.41569040000002,8,32
+Clover Avenue Elementary,90034,K- 5,W,1-Dr George J McKenna III,11020 Clover Ave Los Angeles CA 90034,34.0265375,-118.4246163,0,16
+Sara Coughlin Elementary School,91331,K- 5,NE,6-Kelly Gonez,11035 Borden Ave Pacoima CA 91331,34.2703727,-118.4027551,1,22
+95th Street Elementary,90044,K- 5,W,1-Dr George J McKenna III,1109 W 96th St Los Angeles CA 90044,33.94902020000001,-118.2946396,4,37
+West Athens Elementary,90044,K- 5,W,1-Dr George J McKenna III,1110 W 119th St Los Angeles CA 90044,33.9244445,-118.29491200000001,4,14
+Ritter Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,11108 Watts Ave Los Angeles CA 90059,33.933983500000004,-118.227579,17,44
+Dr Richard A Vladovic Harbor Teacher Preparation Academy,90744,9-12,S,7-Dr Richard A Vladovic,1111 Figueroa Pl Wilmington CA 90744,33.78411,-118.2826821,3,19
+Ford Boulevard Elementary,90022,K- 5,E,5-Vacant,1112 S Ford Blvd Los Angeles CA 90022,34.020241,-118.17142,0,0
+Animo South Los Angeles Charter High School,90047,9-12,XR,1-Dr George J McKenna III,11130 Western Ave Los Angeles CA 90047,33.93301470000001,-118.3082953,0,5
+Charnock Road Elementary,90034,K- 5,W,1-Dr George J McKenna III,11133 Charnock Rd Los Angeles CA 90034,34.0177163,-118.4197331,0,3
+San Fernando Senior High,91340,9-12,NE,6-Kelly Gonez,11133 O'Melveny Ave San Fernando CA 91340,34.2701053,-118.44012759999998,6,22
+Oscar de la Hoya Animo Charter High School,90023,9-12,XR,2-Monica Garcia,1114 S Lorena St Los Angeles CA 90023,34.0232883,-118.20340929999999,20,49
+Hollywood Primary Center,90038,K- 3,W,4-Nick Melvoin,1115 Tamarind Ave Los Angeles CA 90038,34.0912722,-118.31930039999999,29,300
+Aragon Avenue Elementary,90065,K- 5,C,5-Vacant,1118 Aragon Ave Los Angeles CA 90065,34.095273999999996,-118.225319,9,16
+Danube Avenue Elementary,91344,K- 5,NW,3-Scott M Schmerelson,11220 Danube Ave Granada Hills CA 91344,34.273809,-118.473926,4,9
+Samuel Gompers MS University Pathways Medical Magnet Academy,90061,9-10,S,7-Dr Richard A Vladovic,11227 S San Pedro St Los Angeles CA 90061,33.9325242,-118.2695676,25,67
+Meyler Street Elementary,90502,K- 5,S,7-Dr Richard A Vladovic,1123 W 223rd St Torrance CA 90502,33.825404,-118.29583899999999,3,10
+Wisdom Elementary,90001,K- 6,S,7-Dr Richard A Vladovic,1125 E 74th St Los Angeles CA 90001,33.973449200000005,-118.2560885,2,19
+John F Kennedy Senior High Gifted Medical Magnet,91344,9-12,NW,3-Scott M Schmerelson,11254 Gothic Ave Granada Hills CA 91344,34.275948,-118.48758600000001,3,4
+Alliance College Ready Academy #8,90063,6- 8,XR,2-Monica Garcia,113 S Rowan Ave Los Angeles CA 90063,34.0354635,-118.1874607,0,3
+San Fernando Elementary,91340,K- 5,NE,6-Kelly Gonez,1130 Mott St San Fernando CA 91340,34.2794715,-118.4477918,0,6
+Community Elementary Magnet Charter School,90049,K- 5,W,4-Nick Melvoin,11301 Bellagio Rd Los Angeles CA 90049,34.082706099999996,-118.46270700000001,0,2
+Ramona Elementary,90029,K- 6,W,5-Vacant,1133 N Mariposa Ave Los Angeles CA 90029,34.0918115,-118.29970900000001,32,110
+Magnolia Science Academy #4,90064,6-12,XR,4-Nick Melvoin,11330 W Graham Pl Los Angeles CA 90064,34.0298675,-118.43475990000002,11,26
+Fenton Avenue Primary Center,91331,K- 2,XR,6-Kelly Gonez,11351 Dronfield Ave Pacoima CA 91331,34.276331400000004,-118.40360179999999,6,20
+Wilmington Park Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,1140 Mahar Ave Wilmington CA 90744,33.78610820000001,-118.2461295,7,11
+Brainard Elementary,91342,K- 5,NE,6-Kelly Gonez,11407 Brainard Ave Lakeview Terrace CA 91342,34.277389899999996,-118.36462,0,2
+Maurice Sendak Elementary,91601,K- 5,NE,6-Kelly Gonez,11414 W Tiara St North Hollywood CA 91601,34.178419,-118.3798265,4,43
+PUC Lakeview Charter Academy,91342,6- 8,XR,6-Kelly Gonez,11465 Kagel Cyn St Lakeview Terrace CA 91342,34.2801323,-118.3815435,1,6
+PUC CALS Charter Middle & Early College High School,91342,6- 8,XR,5-Vacant,11500 Eldridge Ave Lakeview Terrace CA 91342,34.2800972,-118.3823795,1,7
+Woodcrest Elementary,90044,K- 5,W,1-Dr George J McKenna III,1151 W 109th St Los Angeles CA 90044,33.937644899999995,-118.29591840000002,5,18
+Arminta Street Elementary,91605,K- 5,NE,6-Kelly Gonez,11530 Strathern St North Hollywood CA 91605,34.214783000000004,-118.3826,5,23
+Cimarron Avenue Elementary,90250,K- 5,W,1-Dr George J McKenna III,11559 Cimarron Ave Hawthorne CA 90250,33.929058000000005,-118.31596599999999,0,0
+Citizens of the World Mar Vista,90064,K- 2,XR,4-Nick Melvoin,11561 Gateway Blvd Los Angeles CA 90064,34.0319369,-118.44263500000001,13,40
+Richland Avenue Elementary,90064,K- 6,W,4-Nick Melvoin,11562 Richland Ave Los Angeles CA 90064,34.0284625,-118.44003740000001,9,31
+Berendo Middle School,90006,6- 8,C,2-Monica Garcia,1157 S Berendo St Los Angeles CA 90006,34.0493379,-118.2940013,15,96
+116th Street Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,11610 Stanford Ave Los Angeles CA 90059,33.9288029,-118.26193559999999,10,68
+Colfax Charter Elementary,91607,K- 5,NE,3-Scott M Schmerelson,11724 Addison St North Hollywood CA 91607,34.160514600000006,-118.3889249,3,25
+Stoner Avenue Elementary,90230,K- 5,W,4-Nick Melvoin,11735 Braddock Dr Culver City CA 90230,33.995252,-118.41326200000002,19,23
+University High School Charter,90025,9-12,W,4-Nick Melvoin,11800 Texas Ave Los Angeles CA 90025,34.046169799999994,-118.46014740000001,13,51
+Knollwood Preparatory Academy,91344,K- 5,NW,3-Scott M Schmerelson,11822 Gerald Ave Granada Hills CA 91344,34.285361,-118.49253999999999,0,4
+Fenton Avenue Elementary,91342,3- 5,XR,6-Kelly Gonez,11828 Gain St Lakeview Terrace CA 91342,34.2803696,-118.39060690000001,4,10
+Alliance Marine Tech 6-12 Complex,91352,6-12,XR,6-Kelly Gonez,11933 Allegheny St Sun Valley CA 91352,34.2372206,-118.39328400000001,15,30
+Estrella Elementary,90011,K- 5,C,7-Dr Richard A Vladovic,120 E 57th St Los Angeles CA 90011,33.9904823,-118.273401,19,86
+Hillside Elementary,90031,K- 5,E,2-Monica Garcia,120 E Avenue 35 Los Angeles CA 90031,34.0851554,-118.21268529999999,4,21
+Francisco Bravo Senior High Medical Magnet,90033,9-12,E,2-Monica Garcia,1200 N Cornwell St Los Angeles CA 90033,34.0576093,-118.20322649999999,7,20
+Felicitas And Gonzalo Mendez Senior High,90033,9-12,E,2-Monica Garcia,1200 Plaza Del Sol Los Angeles CA 90033,34.0485209,-118.2270324,2,34
+Los Angeles Academy of Arts and Enterprise,90026,6-12,XR,2-Monica Garcia,1200 W Colton St Los Angeles CA 90026,34.0620181,-118.2545524,0,58
+Fernangeles Elementary,91352,K- 5,NE,6-Kelly Gonez,12001 Art St Sun Valley CA 91352,34.231732,-118.39503,15,26
+Los Angeles Elementary,90006,K- 5,C,2-Monica Garcia,1211 S Hobart Blvd Los Angeles CA 90006,34.0476826,-118.305646,28,85
+Queen Anne Place Elementary,90019,K- 5,W,1-Dr George J McKenna III,1212 Queen Anne Pl Los Angeles CA 90019,34.052000899999996,-118.3309445,5,24
+Park Western Place Elem Gifted/Math/Science Magnet,90732,1- 5,S,7-Dr Richard A Vladovic,1214 Park Western Pl San Pedro CA 90732,33.7528158,-118.3045043,3,14
+Camino Nuevo High School,90026,9-10,XR,2-Monica Garcia,1215 W Miramar St Los Angeles CA 90026,34.0580589,-118.25782439999999,4,91
+PUC Nueva Esperanza Charter Academy,91340,6- 8,XR,6-Kelly Gonez,1218 4th St San Fernando CA 91340,34.287766999999995,-118.4385348,0,10
+Burbank Boulevard Elementary,91607,K- 5,NE,3-Scott M Schmerelson,12215 Albers St North Hollywood CA 91607,34.170582399999994,-118.39917209999999,2,22
+Playa Del Rey Elementary,90230,K- 5,W,4-Nick Melvoin,12221 Juniette St Culver City CA 90230,33.982265500000004,-118.40962409999999,1,18
+Animo Western Charter Middle School,90047,6- 8,XR,1-Dr George J McKenna III,12226 S Western Ave Los Angeles CA 90047,33.9211517,-118.30863729999999,0,0
+El Oro Way Charter for Enriched Studies,91344,K- 5,NW,3-Scott M Schmerelson,12230 El Oro Way Granada Hills CA 91344,34.2932011,-118.5048264,1,1
+Hooper Avenue Elementary,90011,1- 5,C,5-Vacant,1225 E 52nd St Los Angeles CA 90011,33.9956919,-118.2536216,14,47
+Aspire Inskeep Academy Charter,90003,K- 6,XR,7-Dr Richard A Vladovic,123 W 59th St Los Angeles CA 90003,33.9870692,-118.2749225,24,83
+Robert Frost Middle School,91344,6- 8,NW,3-Scott M Schmerelson,12314 Bradford Pl Granada Hills CA 91344,34.2947615,-118.5115905,0,1
+Harry Bridges Span School,90744,K- 8,S,7-Dr Richard A Vladovic,1235 Broad Ave Wilmington CA 90744,33.7872845,-118.2617529,4,28
+Arts in Action Community Middle,90023,6- 8,XR,2-Monica Garcia,1241 S Soto St Los Angeles CA 90023,34.027414,-118.220028,11,50
+John H Francis Polytechnic Senior High,91352,9-12,NE,6-Kelly Gonez,12431 Roscoe Blvd Sun Valley CA 91352,34.222798700000006,-118.4041655,7,25
+Vista del Valle Dual Language Academy Dual Language Spanish,91340,K- 5,NE,6-Kelly Gonez,12441 Bromont Ave San Fernando CA 91340,34.2957652,-118.42151299999999,1,6
+Porter Ranch Community School Dual Language Korean,91326,K- 5,NW,3-Scott M Schmerelson,12450 Mason Ave Porter Ranch CA 91326,34.293056400000005,-118.5812973,0,0
+Goethe International Charter School,90066,K- 5,XR,4-Nick Melvoin,12500 Braddock Dr Los Angeles CA 90066,33.9875741,-118.4209002,9,24
+Robert H Lewis Continuation High,91352,9-12,NE,6-Kelly Gonez,12508 Wicks St Sun Valley CA 91352,34.226157,-118.404227,6,20
+Bert Corona Charter High,91331,9-10,XR,6-Kelly Gonez,12513 Gain St Pacoima CA 91331,34.271262799999995,-118.40446100000001,1,25
+Glenn Hammond Curtiss Middle School,90746,6- 8,S,7-Dr Richard A Vladovic,1254 E Helmick St Carson CA 90746,33.8500676,-118.25072220000001,0,0
+Charles Maclay Middle School,91331,6- 8,NE,6-Kelly Gonez,12540 Pierce Ave Pacoima CA 91331,34.2712446,-118.40606329999999,1,22
+PUC Inspire Charter Academy,91331,6- 8,XR,6-Kelly Gonez,12550 Van Nuys Blvd Pacoima CA 91331,34.2765311,-118.40547079999999,5,22
+Hillery T Broadous Elementary,91331,K- 5,NE,6-Kelly Gonez,12561 Filmore St Pacoima CA 91331,34.283035,-118.40826299999999,3,15
+Ann Street Elementary,90012,K- 5,E,2-Monica Garcia,126 E Bloom St Los Angeles CA 90012,34.064324799999994,-118.2302763,3,21
+Lenicia B Weemes Elementary,90007,K- 5,C,1-Dr George J McKenna III,1260 W 36th Pl Los Angeles CA 90007,34.0216126,-118.2967404,14,52
+Ocean Charter,90066,K- 8,XR,4-Nick Melvoin,12606 Culver Blvd Los Angeles CA 90066,33.986434,-118.424274,9,24
+Animo Watts College Preparatory Academy,90061,9-12,XR,7-Dr Richard A Vladovic,12628 Avalon Blvd Los Angeles CA 90061,33.9179976,-118.26412830000001,1,6
+Russell Elementary,90001,K- 6,S,7-Dr Richard A Vladovic,1263 E Firestone Blvd Los Angeles CA 90001,33.9605203,-118.251703,7,30
+Endeavor College Prep Charter School,90023,K- 8,XR,2-Monica Garcia,1263 S Soto St Los Angeles CA 90023,34.026679,-118.22004170000001,11,50
+112th Street Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,1265 E 112th St Los Angeles CA 90059,33.933774799999995,-118.2529361,21,66
+Larchmont Charter School,90046,K-10,XR,4-Nick Melvoin,1265 N Fairfax Ave West Hollywood CA 90046,34.093587799999995,-118.36187749999999,2,15
+Animo Mae Jemison Charter Middle School,90061,6- 8,XR,7-Dr Richard A Vladovic,12700 Avalon Blvd Los Angeles CA 90061,33.917533399999996,-118.26389990000001,1,6
+New Design Charter School - Watts,90061,6-12,XR,7-Dr Richard A Vladovic,12714 S Avalon Los Angeles CA 90061,33.91713970000001,-118.2646764,0,4
+El Dorado Avenue Elementary,91342,K- 5,NE,6-Kelly Gonez,12749 El Dorado Ave Sylmar CA 91342,34.3014391,-118.46591799999999,4,17
+Hooper Avenue Primary Center,90011,K- K,C,5-Vacant,1280 E 52nd St Los Angeles CA 90011,33.9954878,-118.2525393,13,41
+Short Avenue Elementary,90066,K- 6,W,4-Nick Melvoin,12814 Maxella Ave Los Angeles CA 90066,33.9900857,-118.4319635,4,23
+Charles Leroy Lowman Special Ed & Career Transition Center,91605,K-12,NE,6-Kelly Gonez,12827 Saticoy St North Hollywood CA 91605,34.2067077,-118.4127961,2,29
+Main Street Elementary,90011,K- 5,C,7-Dr Richard A Vladovic,129 E 53rd St Los Angeles CA 90011,33.9946065,-118.2730813,25,73
+Jack London Continuation High,91401,9-12,NE,3-Scott M Schmerelson,12924 Oxnard St Van Nuys CA 91401,34.17931420000001,-118.4147006,3,11
+Phoenix Continuation High,90066,9-12,W,4-Nick Melvoin,12971 Zanja St Los Angeles CA 90066,33.9969532,-118.44098000000001,7,19
+San Fernando Middle School,91340,6- 8,NE,6-Kelly Gonez,130 N Brand Blvd San Fernando CA 91340,34.2828802,-118.4373758,0,10
+James Madison Middle School,91605,6- 8,NE,3-Scott M Schmerelson,13000 Hart St North Hollywood CA 91605,34.196244,-118.416501,8,29
+Montague Charter Academy for the Arts and Sciences,91331,K- 5,XR,6-Kelly Gonez,13000 Montague St Pacoima CA 91331,34.244464799999996,-118.415015,2,9
+Ulysses S Grant Senior High,91401,9-12,NE,3-Scott M Schmerelson,13000 Oxnard St Van Nuys CA 91401,34.177452,-118.41628100000001,3,11
+Venice Senior High,90066,9-12,W,4-Nick Melvoin,13000 Venice Blvd Los Angeles CA 90066,33.9970901,-118.4445798,11,22
+Fries Avenue Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,1301 Fries Ave Wilmington CA 90744,33.7886708,-118.26586409999999,2,24
+Gardena Senior High World Languages Magnet,90248,9-12,S,7-Dr Richard A Vladovic,1301 W 182nd St  Gardena CA 90248,33.8672459,-118.29473090000002,5,6
+Rockdale Visual & Performing Arts Magnet,90041,K- 6,C,5-Vacant,1303 Yosemite Dr Los Angeles CA 90041,34.133342999999996,-118.1943156,3,8
+Sylmar Biotech Health Academy,91342,9-12,NE,6-Kelly Gonez,13050 Borden Ave Sylmar CA 91342,34.3077277,-118.4410553,9,22
+Harding Street Elementary,91342,K- 5,NE,6-Kelly Gonez,13060 Harding St Sylmar CA 91342,34.3052925,-118.4164548,1,6
+Riverside Drive Charter School,91423,K- 5,NE,3-Scott M Schmerelson,13061 Riverside Dr Sherman Oaks CA 91423,34.1586514,-118.4172088,4,20
+Brockton Avenue Elementary,90025,K- 5,W,4-Nick Melvoin,1309 Armacost Ave Los Angeles CA 90025,34.044357299999994,-118.4629919,11,42
+APEX Academy,90028,7-12,XR,4-Nick Melvoin,1309 N Wilton Pl 3rd Fl Los Angeles CA 90028,34.0962709,-118.31483899999999,54,276
+Alliance College Ready Academy #12,90011,6- 6,XR,7-Dr Richard A Vladovic,131 E 50th St Los Angeles CA 90011,33.997698,-118.27327,24,74
+Evergreen Continuation High,91342,9-12,NE,6-Kelly Gonez,13101 Dronfield Ave Sylmar CA 91342,34.309638799999995,-118.439898,10,20
+Christopher Dena Elementary,90023,K- 6,E,2-Monica Garcia,1314 Dacotah St Los Angeles CA 90023,34.0221067,-118.21122450000001,19,46
+Playa Vista Elementary,90094,K- 5,W,4-Nick Melvoin,13150 W Bluff Creek Dr Playa Vista CA 90094,33.9686229,-118.42439540000001,0,4
+Joseph Le Conte Middle School,90028,6- 8,W,4-Nick Melvoin,1316 N Bronson Ave Hollywood CA 90028,34.0947984,-118.3166922,49,301
+Thomas Jefferson Senior High,90011,9-12,C,5-Vacant,1319 E 41st St Los Angeles CA 90011,34.0094826,-118.25087659999998,7,38
+Betty Plasencia Elementary,90026,K- 5,C,2-Monica Garcia,1321 Cortez St Los Angeles CA 90026,34.066333,-118.25597340000002,0,22
+Dr Lawrence H Moore Math Science Technology Academy,90001,K- 5,S,7-Dr Richard A Vladovic,1321 E 61st St Los Angeles CA 90001,33.984594799999996,-118.25175549999999,3,27
+Purche Avenue Elementary STEAM Magnet,90249,1- 5,S,1-Dr George J McKenna III,13210 Purche Ave Gardena CA 90249,33.9123614,-118.32021,0,0
+Sylmar Elementary,91342,K- 5,NE,6-Kelly Gonez,13291 Phillippi Ave Sylmar CA 91342,34.312037100000005,-118.4474172,3,17
+Hubbard Street Elementary,91342,K- 5,NE,6-Kelly Gonez,13325 Hubbard St Sylmar CA 91342,34.314095,-118.42446799999999,2,11
+Vaughn Next Century Learning Center,91340,K-12,XR,6-Kelly Gonez,13330 Vaughn St San Fernando CA 91340,34.2804775,-118.4225892,7,19
+Herrick Avenue Elementary,91342,K- 5,NE,6-Kelly Gonez,13350 Herrick Ave Sylmar CA 91342,34.31507270000001,-118.46390659999999,0,5
+PUC Lakeview Charter High School,91342,9-12,XR,6-Kelly Gonez,13361 Glenoaks Blvd Sylmar CA 91342,34.3140317,-118.459644,0,9
+Parmelee Avenue Elementary,90001,K- 6,S,7-Dr Richard A Vladovic,1338 E 76th Pl Los Angeles CA 90001,33.970087799999995,-118.2508983,0,13
+Erwin Elementary,91401,K- 5,NE,3-Scott M Schmerelson,13400 Erwin St Van Nuys CA 91401,34.182646399999996,-118.42530729999999,2,19
+Lake Street Primary School,90026,K- 1,C,2-Monica Garcia,135 N Lake St Los Angeles CA 90026,34.0681055,-118.2710486,10,64
+20th Street Elementary,90011,K- 5,C,2-Monica Garcia,1353 E 20th St Los Angeles CA 90011,34.02324,-118.25116000000001,20,68
+Discovery Charter Preparatory School #2,91342,9-12,XR,6-Kelly Gonez,13570 Eldridge Ave Sylmar CA 91342,34.319027,-118.4249357,1,10
+Kittridge Street Elementary Dual Language Armenian,91401,K- K,NE,3-Scott M Schmerelson,13619 Kittridge St Van Nuys CA 91401,34.191358,-118.42986299999998,5,48
+Canterbury Avenue Elementary,91331,K- 5,NE,6-Kelly Gonez,13670 Montague St Arleta CA 91331,34.232913,-118.429194,3,6
+STEM Preparatory Elementary,90007,K- 3,XR,1-Dr George J McKenna III,1374 W 35th St Los Angeles CA 90007,34.02432510000001,-118.29966329999999,10,52
+Sharp Avenue Elementary,91331,K- 5,NE,6-Kelly Gonez,13800 Pierce St Arleta CA 91331,34.252292,-118.432521,5,18
+Avalon Gardens Elementary,90061,K- 6,S,7-Dr Richard A Vladovic,13940 S San Pedro St Los Angeles CA 90061,33.9049987,-118.26844320000001,0,3
+Miramonte Elementary,90001,K- 5,S,7-Dr Richard A Vladovic,1400 E 68th St Los Angeles CA 90001,33.9781209,-118.24987560000001,0,13
+PUC Community Charter Elementary,91342,K- 5,XR,6-Kelly Gonez,14019 Syre St Sylmar CA 91342,34.306225899999994,-118.43878570000001,11,20
+Benjamin Banneker Career and Transition Center,90061,12-12,S,7-Dr Richard A Vladovic,14024 S San Pedro St Los Angeles CA 90061,33.9039059,-118.2683393,0,3
+Fairburn Avenue Elementary,90024,K- 5,W,4-Nick Melvoin,1403 Fairburn Ave Los Angeles CA 90024,34.0591585,-118.43114209999999,1,13
+Chandler Elementary,91401,K- 5,NE,3-Scott M Schmerelson,14030 Weddington St Sherman Oaks CA 91401,34.165736200000005,-118.4390012,2,17
+Chase Street Elementary,91402,K- 5,NW,6-Kelly Gonez,14041 Chase St Panorama City CA 91402,34.226489,-118.439682,4,18
+White Point Elementary,90731,K- 5,S,7-Dr Richard A Vladovic,1410 Silvius Ave San Pedro CA 90731,33.71657080000001,-118.30852309999999,0,3
+Charles Drew MS University Pathways Public Service Academy,90001,9-10,S,7-Dr Richard A Vladovic,1415 Firestone Blvd Los Angeles CA 90001,33.960249600000004,-118.2490793,2,32
+Robert E Peary Middle School,90247,6- 8,S,7-Dr Richard A Vladovic,1415 W Gardena Blvd Gardena CA 90247,33.882859,-118.301448,0,4
+75th Street Elementary,90003,K- 6,S,7-Dr Richard A Vladovic,142 W 75th St Los Angeles CA 90003,33.971297,-118.27609199999999,35,98
+Dr Julian Nava Learning Academy,90011,6- 8,C,2-Monica Garcia,1420 E Adams Blvd Los Angeles CA 90011,34.0152673,-118.2488249,12,46
+Arleta Senior High,91331,9-12,NE,6-Kelly Gonez,14200 Van Nuys Blvd Arleta CA 91331,34.25064890000001,-118.4415659,1,18
+Dan M Isaacs Avalon High School,90744,9-12,S,7-Dr Richard A Vladovic,1425 N Avalon Blvd Wilmington CA 90744,33.7919169,-118.2639406,2,20
+Gabriella Charter School,90026,K- 8,XR,5-Vacant,1435 Logan St Los Angeles CA 90026,34.0801386,-118.2570321,4,13
+Vermont Avenue Elementary,90007,K- 5,C,1-Dr George J McKenna III,1435 W 27th St Los Angeles CA 90007,34.03083839999999,-118.29281270000001,14,44
+118th Street Elementary,90061,K- 5,S,7-Dr Richard A Vladovic,144 E 118th St Los Angeles CA 90061,33.92608269999999,-118.2718936,3,48
+Ascot Avenue Elementary,90011,K- 5,C,5-Vacant,1447 E 45th St Los Angeles CA 90011,34.0031683,-118.2486879,6,42
+Paul Revere Charter Middle School,90049,6- 8,W,4-Nick Melvoin,1450 Allenford Ave Los Angeles CA 90049,34.0550901,-118.4951848,1,1
+Dyer Street Elementary,91342,K- 5,NE,6-Kelly Gonez,14500 Dyer St Sylmar CA 91342,34.2995527,-118.4472571,5,25
+Sylmar Leadership Academy,91342,K- 8,NE,6-Kelly Gonez,14550 Bledsoe St Sylmar CA 91342,34.318825700000005,-118.44986540000001,1,7
+Olive Vista Middle School,91342,6- 8,NE,6-Kelly Gonez,14600 Tyler St Sylmar CA 91342,34.310942100000005,-118.44921940000002,4,22
+Cal Burke High School,91402,9-12,NE,6-Kelly Gonez,14630 Lanark St Panorama City CA 91402,34.2176638,-118.4527487,13,56
+Valley Charter Middle School,91405,6- 8,XR,6-Kelly Gonez,14646 Sherman Way Van Nuys CA 91405,34.200636100000004,-118.4525157,10,105
+President Avenue Elementary,90710,K- 6,S,7-Dr Richard A Vladovic,1465 W 243rd St Harbor City CA 90710,33.804249600000006,-118.30251770000001,4,11
+107th Street Elementary,90003,K- 5,S,7-Dr Richard A Vladovic,147 E 107th St Los Angeles CA 90003,33.940181,-118.272494,38,91
+New Village Girls Academy,90026,9-12,XR,2-Monica Garcia,147 N Occidental Blvd Los Angeles CA 90026,34.071532399999995,-118.27984140000001,10,67
+96th Street Elementary,90002,K- 6,S,7-Dr Richard A Vladovic,1471 E 96th St Los Angeles CA 90002,33.9491962,-118.2483452,12,61
+Will Rogers Continuation High,91411,9-12,NE,6-Kelly Gonez,14711 Gilmore St Van Nuys CA 91411,34.1879138,-118.4540064,56,128
+Sherman Oaks Elementary Charter School,91403,K- 5,NE,3-Scott M Schmerelson,14755 Greenleaf St Sherman Oaks CA 91403,34.1498966,-118.455634,8,15
+Alta California Elementary,91402,K- 5,NW,6-Kelly Gonez,14859 Rayen St Panorama City CA 91402,34.232785,-118.4569794,17,72
+San Jose Street Elementary,91345,K- 5,NW,6-Kelly Gonez,14928 Clymer St Mission Hills CA 91345,34.26239279999999,-118.4580257,0,7
+Osceola Street Elementary,91342,K- 5,NE,6-Kelly Gonez,14940 Osceola St Sylmar CA 91342,34.2903898,-118.45596540000001,6,15
+Union Avenue Elementary,90057,K- 5,C,2-Monica Garcia,150 S Burlington Ave Los Angeles CA 90057,34.06247200000001,-118.26728999999999,14,61
+Robert Hill Lane Elementary,91754,K- 6,E,5-Vacant,1500 Avenida Cesar Chavez Monterey Park CA 91754,34.039747,-118.15223870000001,0,0
+West Adams Preparatory Senior High,90007,9-12,C,2-Monica Garcia,1500 W Washington Bl Los Angeles CA 90007,34.03976,-118.28954170000002,12,60
+Murchison Street Elementary,90033,K- 6,E,2-Monica Garcia,1501 Murchison St Los Angeles CA 90033,34.0598573,-118.1959607,4,15
+Richard Henry Dana Middle School,90731,6- 8,S,7-Dr Richard A Vladovic,1501 S Cabrillo Ave San Pedro CA 90731,33.7306286,-118.295533,37,79
+Lassen Elementary,91343,K- 5,NW,6-Kelly Gonez,15017 Superior St North Hills CA 91343,34.247396,-118.46016200000001,2,33
+Valerio Street Elementary,91405,K- 5,NE,6-Kelly Gonez,15035 Valerio St Van Nuys CA 91405,34.2051321,-118.460378,17,65
+Vista Middle School,91402,6- 8,NE,6-Kelly Gonez,15040 Roscoe Blvd Panorama City CA 91402,34.221081,-118.46029399999999,14,83
+Harbor City Elementary,90710,K- 5,S,7-Dr Richard A Vladovic,1508 W 254th St Harbor City CA 90710,33.7933935,-118.30317990000002,12,20
+John Adams Middle School,90007,6- 8,C,2-Monica Garcia,151 W 30th St Los Angeles CA 90007,34.0226018,-118.27047759999998,5,56
+Micheltorena Street Elementary,90026,K- 5,C,5-Vacant,1511 Micheltorena St Los Angeles CA 90026,34.088915500000006,-118.2752737,2,20
+Boys Academic Leadership Academy,90047,6- 8,W,1-Dr George J McKenna III,1511 W 110th St Los Angeles CA 90047,33.936028,-118.30312079999999,0,11
+Pio Pico Middle School,90019,6- 8,W,1-Dr George J McKenna III,1512 S Arlington Ave Los Angeles CA 90019,34.0450973,-118.3172,38,63
+Compton Avenue Elementary,90002,K- 5,S,7-Dr Richard A Vladovic,1515 E 104th St Los Angeles CA 90002,33.9426112,-118.2471118,21,79
+Virgil Middle School,90004,6- 8,C,2-Monica Garcia,152 N Vermont Ave Los Angeles CA 90004,34.0736941,-118.2916438,23,75
+Hollywood Senior High,90028,9-12,W,4-Nick Melvoin,1521 N Highland Ave Los Angeles CA 90028,34.0991651,-118.3400534,303,500
+Thomas Riley High School - CYESIS,90002,7-12,S,7-Dr Richard A Vladovic,1524 E 103rd St Los Angeles CA 90002,33.9429317,-118.2471118,16,78
+Phineas Banning Senior High,90744,9-12,S,7-Dr Richard A Vladovic,1527 Lakme Ave Wilmington CA 90744,33.7944323,-118.2612504,1,8
+15th Street Elementary,90731,K- 5,S,7-Dr Richard A Vladovic,1527 S Mesa St San Pedro CA 90731,33.729952000000004,-118.287287,33,81
+Grant Elementary,90028,K- 6,W,5-Vacant,1530 N Wilton Pl Los Angeles CA 90028,34.0998217,-118.3132646,47,209
+Francisco Sepulveda Middle School Gifted Magnet,91343,6- 8,NW,6-Kelly Gonez,15330 Plummer St North Hills CA 91343,34.242394700000006,-118.46576090000002,18,56
+Ivy Bound Academy of Math Science & Technology,91403,5- 8,XR,3-Scott M Schmerelson,15355 Morrison St Sherman Oaks CA 91403,34.1614237,-118.4686103,3,12
+Judith F Baca Arts Academy,90002,K- 6,S,7-Dr Richard A Vladovic,1536 E 89th St Los Angeles CA 90002,33.9560998,-118.2466508,3,30
+Duke Ellington Continuation High,90047,9-12,W,1-Dr George J McKenna III,1541 W 110th St Los Angeles CA 90047,33.9357862,-118.3039335,0,11
+Animo Florence-Firestone Charter Middle,90003,6- 7,XR,7-Dr Richard A Vladovic,155 W 69th St Los Angeles CA 90003,33.9775842,-118.27582190000001,42,88
+Alliance Ted K Tajima High,90026,9-11,XR,2-Monica Garcia,1552 W Rockwood St Los Angeles CA 90026,34.063479,-118.26153500000001,2,42
+Hesby Oaks Leadership Charter,91436,K- 8,NW,4-Nick Melvoin,15530 Hesby St Encino CA 91436,34.161888700000006,-118.47269890000001,3,9
+Elysian Heights Elementary,90026,K- 6,C,5-Vacant,1562 Baxter St Los Angeles CA 90026,34.088886200000005,-118.24941880000002,1,7
+Nevin Avenue Elementary,90011,K- 5,C,5-Vacant,1569 E 32nd St Los Angeles CA 90011,34.0125015,-118.24658640000001,11,40
+7th Street Elementary,90732,K- 5,S,7-Dr Richard A Vladovic,1570 W 7th St San Pedro CA 90732,33.7380764,-118.311229,3,4
+Belmont Senior High,90026,9-12,C,2-Monica Garcia,1575 W 2nd St Los Angeles CA 90026,34.06128169999999,-118.2629132,6,52
+Bassett Street Elementary,91406,K- 5,NW,3-Scott M Schmerelson,15756 Bassett St Lake Balboa CA 91406,34.1955034,-118.47670190000001,10,42
+Palisades Charter High School,90272,9-12,XR,4-Nick Melvoin,15777 Bowdoin St Pacific Palisades CA 90272,34.0472126,-118.53044879999999,1,2
+186th Street Elementary,90248,K- 5,S,7-Dr Richard A Vladovic,1581 W 186th St Gardena CA 90248,33.863714200000004,-118.30556200000001,0,5
+Cohasset Street Elementary,91406,K- 5,NW,6-Kelly Gonez,15810 Saticoy St Lake Balboa CA 91406,34.207947600000004,-118.47809050000001,22,59
+Vintage Elementary Math/Science/Technology Magnet,91343,K- 5,NW,3-Scott M Schmerelson,15848 Stare St North Hills CA 91343,34.2525435,-118.47762990000001,0,12
+Haskell Elementary STEAM Magnet,91344,K- 5,NW,3-Scott M Schmerelson,15850 Tulsa St Granada Hills CA 91344,34.2680434,-118.4775003,3,11
+Albert Einstein Continuation High School,91343,9-12,NW,6-Kelly Gonez,15938 Tupper St North Hills CA 91343,34.2390263,-118.47989540000002,3,34
+George K Porter Middle School,91344,6- 8,NW,3-Scott M Schmerelson,15960 Kingsbury St Granada Hills CA 91344,34.262316,-118.479919,0,8
+Middle College High School,90047,9-12,W,1-Dr George J McKenna III,1600 Imperial Hwy Bldg 16 Los Angeles CA 90047,33.9309058,-118.30474270000002,0,7
+King-Drew Senior High Medicine and Science Magnet,90059,9-12,S,7-Dr Richard A Vladovic,1601 E 120th St Los Angeles CA 90059,33.9241196,-118.2458098,5,47
+Gledhill Street Elementary Science/Tech/Math Magnet,91343,1- 5,NW,6-Kelly Gonez,16030 Gledhill St North Hills CA 91343,34.241043,-118.48162579999999,1,26
+153rd Street Elementary,90247,K- 6,S,7-Dr Richard A Vladovic,1605 W 153rd St Gardena CA 90247,33.893542700000005,-118.3058835,0,0
+Carson Street Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,161 E Carson St Carson CA 90745,33.831856200000004,-118.27580259999998,0,0
+Para Los Ninos Charter,90021,K- 5,XR,2-Monica Garcia,1617 E 7th St Los Angeles CA 90021,34.0352598,-118.2370381,14,198
+Denker Avenue Elementary,90247,K- 5,S,7-Dr Richard A Vladovic,1620 W 162nd St Gardena CA 90247,33.8828945,-118.30551399999999,0,3
+Magnolia Avenue Elementary,90006,K- 5,C,2-Monica Garcia,1626 S Orchard Ave Los Angeles CA 90006,34.0434932,-118.28797140000002,14,71
+Lovelia P Flournoy Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,1630 E 111th St Los Angeles CA 90059,33.9342321,-118.245297,30,77
+Walgrove Avenue Elementary,90066,K- 5,W,4-Nick Melvoin,1630 Walgrove Ave Los Angeles CA 90066,34.006231,-118.45146299999999,2,23
+Jane Addams Continuation High,91344,9-12,NW,3-Scott M Schmerelson,16341 Donmetz St Granada Hills CA 91344,34.2740202,-118.48819820000001,4,4
+San Pedro Street Elementary,90015,K- 5,C,2-Monica Garcia,1635 S San Pedro St Los Angeles CA 90015,34.028208,-118.25705719999999,16,87
+Edwin Markham Middle School,90002,6- 8,S,7-Dr Richard A Vladovic,1650 E 104th St Los Angeles CA 90002,33.9411254,-118.2457379,27,81
+Emerson Community Charter,90024,6- 8,W,4-Nick Melvoin,1650 Selby Ave Los Angeles CA 90024,34.05387460000001,-118.4362071,8,46
+Valley Charter Elementary School,91343,K- 5,XR,3-Scott M Schmerelson,16514 Nordhoff St North Hills CA 91343,34.234881,-118.49191609999998,0,3
+Animo Jefferson Charter Middle School,90011,6- 8,XR,5-Vacant,1655 E 27th St Ste A Los Angeles CA 90011,34.01270969999999,-118.24398240000001,8,32
+Crescent Heights Boulevard Elementary Lang Arts/Soc Jstc Mag,90035,K- 5,W,1-Dr George J McKenna III,1661 S Crescent Hts Blvd Los Angeles CA 90035,34.047263,-118.373998,7,41
+Mayall Street Academy of Arts/Technology Magnet,91343,K- 5,NW,3-Scott M Schmerelson,16701 Mayall St North Hills CA 91343,34.2541036,-118.4965015,3,5
+Marquez Charter,90272,K- 5,W,4-Nick Melvoin,16821 Marquez Ave Pacific Palisades CA 90272,34.0457867,-118.54774280000001,0,2
+Parthenia Academy of Arts and Technology,91343,K- 5,NW,3-Scott M Schmerelson,16825 Napa St North Hills CA 91343,34.227553,-118.499118,1,3
+Encino Charter Elementary,91316,K- 5,NW,4-Nick Melvoin,16941 Addison St Encino CA 91316,34.162071600000004,-118.50249440000002,5,9
+Wilmington Middle School STEAM Magnet,90744,6- 8,S,7-Dr Richard A Vladovic,1700 Gulf Ave Wilmington CA 90744,33.7978661,-118.27401129999998,3,8
+Barack Obama Global Preparation Academy,90062,6- 8,C,1-Dr George J McKenna III,1700 W 46th St Los Angeles CA 90062,34.001137299999996,-118.309155,12,52
+Equitas Academy Charter School,90015,K- 5,XR,2-Monica Garcia,1700 W Pico Blvd Los Angeles CA 90015,34.044837,-118.278444,17,88
+Gault Street Elementary,91406,K- 5,NW,3-Scott M Schmerelson,17000 Gault St Lake Balboa CA 91406,34.1990696,-118.50416409999998,1,14
+Birmingham Community Charter High School,91406,9-12,XR,3-Scott M Schmerelson,17000 Haynes St Lake Balboa CA 91406,34.1881585,-118.5042254,3,8
+Public Policy Charter,90062,5- 6,XR,1-Dr George J McKenna III,1701 Browning Blvd Los Angeles CA 90062,34.0120751,-118.30936799999999,11,52
+Balboa Elementary Gifted/Highly Gifted/High Ability Magnet,91325,1- 5,NW,3-Scott M Schmerelson,17020 Labrador St Northridge CA 91325,34.2489662,-118.5030091,0,4
+Valor Academy Elementary School,91325,K- 2,XR,3-Scott M Schmerelson,17081 Devonshire St Northridge CA 91325,34.258472,-118.50573200000001,5,9
+Logan Academy of Global Ecology,90026,K- 8,C,5-Vacant,1711 W Montana St Los Angeles CA 90026,34.0788102,-118.257733,5,18
+Hightech LA,91406,9-12,XR,3-Scott M Schmerelson,17111 Victory Bl Lake Balboa CA 91406,34.1872124,-118.5061308,3,8
+William Mulholland Middle School,91406,6- 8,NW,3-Scott M Schmerelson,17120 Vanowen St Lake Balboa CA 91406,34.193552399999994,-118.50531959999999,2,9
+Van Gogh Charter,91344,K- 5,NW,3-Scott M Schmerelson,17160 Van Gogh St Granada Hills CA 91344,34.3055309,-118.5058746,0,0
+Arlington Heights Elementary,90019,K- 5,W,1-Dr George J McKenna III,1717 7th Ave Los Angeles CA 90019,34.0418021,-118.3250445,7,74
+Granada Elementary,91344,K- 5,NW,3-Scott M Schmerelson,17170 Tribune St Granada Hills CA 91344,34.266944,-118.507778,3,10
+Camino Nuevo Elementary School #3,90007,K- 8,XR,2-Monica Garcia,1723 Cordova St Los Angeles CA 90007,34.0392643,-118.29526129999999,14,77
+Western Avenue Elementary,90062,K- 5,W,1-Dr George J McKenna III,1724 W 53rd St Los Angeles CA 90062,33.9939307,-118.30724440000002,16,49
+KIPP Scholar Academy,90062,5- 7,XR,5-Vacant,1729 W Ml King Jr Blvd Los Angeles CA 90062,34.011112,-118.3100053,12,52
+Nora Sterry Elementary,90025,K- 5,W,4-Nick Melvoin,1730 Corinth Ave Los Angeles CA 90025,34.0438281,-118.44737109999998,35,75
+Patrick Henry Middle School,91344,6- 8,NW,3-Scott M Schmerelson,17340 San Jose St Granada Hills CA 91344,34.2589715,-118.5120395,3,9
+Los Feliz Science/Tech/Engineer/Math/Medicine Magnet,90027,K- 6,C,5-Vacant,1740 N New Hampshire Ave Los Angeles CA 90027,34.1028081,-118.29299540000001,3,38
+Lorne Street Elementary,91325,K- 5,NW,6-Kelly Gonez,17440 Lorne St Northridge CA 91325,34.2167126,-118.5131314,1,5
+Alta Loma Elementary,90019,K- 5,W,1-Dr George J McKenna III,1745 Vineyard Ave Los Angeles CA 90019,34.043014,-118.33968600000001,17,32
+TEACH Prep Cunningham & Morris Elem,90047,K- 1,XR,1-Dr George J McKenna III,1750 W Century Blvd Los Angeles CA 90047,33.945257,-118.308146,1,6
+Eagle Rock High School,90041,7-12,C,5-Vacant,1750 Yosemite Dr Los Angeles CA 90041,34.1317787,-118.2063795,0,11
+Lemay Street Elementary,91406,K- 5,NW,3-Scott M Schmerelson,17520 Vanowen St Lake Balboa CA 91406,34.192639,-118.5150665,0,9
+Academy for Enriched Sciences Elementary Magnet,91316,K- 5,NW,3-Scott M Schmerelson,17551 Miranda St Encino CA 91316,34.174781599999996,-118.51499950000002,2,12
+Birdielee V Bright Elementary,90018,K- 5,W,1-Dr George J McKenna III,1771 W 36th St Los Angeles CA 90018,34.023143700000006,-118.31109520000001,8,37
+Emelita Street Elementary,91316,K- 5,NW,3-Scott M Schmerelson,17931 Hatteras St Encino CA 91316,34.1765217,-118.5238054,1,24
+Cantara Street Elementary,91335,K- 5,NW,6-Kelly Gonez,17950 Cantara St Reseda CA 91335,34.218428,-118.525236,1,8
+Moneta Continuation High,90248,9-12,S,7-Dr Richard A Vladovic,17951 S Budlong Ave Gardena CA 90248,33.86741,-118.2949865,5,6
+Northridge Middle Medical Health Careers Magnet,91325,6- 8,NW,3-Scott M Schmerelson,17960 Chase St Northridge CA 91325,34.2237928,-118.5251695,1,3
+Garden Grove Elementary,91335,K- 5,NW,6-Kelly Gonez,18141 Valerio St Reseda CA 91335,34.205442,-118.52843600000001,4,19
+Zane Grey Continuation High,91335,9-12,NW,6-Kelly Gonez,18230 Kittridge St Reseda CA 91335,34.1884315,-118.5288733,6,34
+Taper Avenue Elementary STEAM Magnet,90731,K- 5,S,7-Dr Richard A Vladovic,1824 Taper Ave San Pedro CA 90731,33.76254,-118.29839299999999,0,7
+Magnolia Science Academy #7,91325,K- 5,XR,3-Scott M Schmerelson,18355 Roscoe Blvd Northridge CA 91325,34.2211656,-118.5335916,2,7
+Manhattan Place Elementary,90047,K- 5,W,1-Dr George J McKenna III,1850 W 96th St Los Angeles CA 90047,33.9484547,-118.3107152,2,4
+PUC Excel Academy,90031,6- 8,XR,2-Monica Garcia,1855 N Main St Los Angeles CA 90031,34.066599200000006,-118.21985900000001,4,17
+Sherman Oaks Center for Enriched Studies (SOCES) Magnet,91335,4-12,NW,3-Scott M Schmerelson,18605 Erwin St Reseda CA 91335,34.1841724,-118.5384563,20,39
+Gaspar de Portola MS - Academy of Integrated Arts & Tech,91356,6- 8,NW,4-Nick Melvoin,18720 Linnet St Tarzana CA 91356,34.167244200000006,-118.54208799999999,5,18
+Calahan Street Elementary,91324,K- 5,NW,3-Scott M Schmerelson,18722 Knapp St Northridge CA 91324,34.237967700000006,-118.5417004,3,5
+Blythe Street Elementary,91335,K- 5,NW,3-Scott M Schmerelson,18730 Blythe St Reseda CA 91335,34.2145059,-118.54171129999999,5,14
+John R Wooden High School,91335,9-12,NW,3-Scott M Schmerelson,18741 Elkwood St Reseda CA 91335,34.2130073,-118.54199109999999,4,14
+Towne Avenue Elementary,90746,K- 5,S,7-Dr Richard A Vladovic,18924 Towne Ave Carson CA 90746,33.8583275,-118.2674172,0,1
+Castlebay Lane Charter,91326,K- 5,NW,3-Scott M Schmerelson,19010 Castlebay Ln Porter Ranch CA 91326,34.293679100000006,-118.5475148,1,1
+Napa Street Elementary,91324,K- 5,NW,3-Scott M Schmerelson,19010 Napa St Northridge CA 91324,34.22552039999999,-118.54751170000002,0,7
+Vanalden Avenue Elementary,91335,K- 5,NW,3-Scott M Schmerelson,19019 Delano St Reseda CA 91335,34.18272329999999,-118.546977,6,34
+Diane S Leichman Career Preparatory and Transition Center,91335,9-12,NW,3-Scott M Schmerelson,19034 Gault St Reseda CA 91335,34.198383,-118.54833400000001,5,33
+Gridley Street Elementary,91340,K- 5,NE,6-Kelly Gonez,1907 8th St San Fernando CA 91340,34.30259650000001,-118.42912340000002,3,14
+Franklin Avenue Elementary,90027,K- 5,C,5-Vacant,1910 N Commonwealth Ave Los Angeles CA 90027,34.1059365,-118.28495690000001,3,8
+Beckford Charter for Enriched Studies,91326,K- 5,NW,3-Scott M Schmerelson,19130 Tulsa St Northridge CA 91326,34.2677318,-118.5488772,0,8
+New Los Angeles Charter School,90016,6- 8,XR,1-Dr George J McKenna III,1919 S Burnside Ave Los Angeles CA 90016,34.0405831,-118.35802050000001,6,30
+Santee Education Complex,90011,9-12,C,2-Monica Garcia,1921 S Maple Ave Los Angeles CA 90011,34.0290276,-118.2628492,26,80
+Frida Kahlo Continuation High,90011,9-12,C,2-Monica Garcia,1924 S Los Angeles St Los Angeles CA 90011,34.0298149,-118.26378570000001,26,80
+Sophia T Salvin Special Education Center,90007,K- 8,C,2-Monica Garcia,1925 Budlong Ave Los Angeles CA 90007,34.0379421,-118.2967404,12,94
+University Preparatory Value High,90006,9- 9,XR,2-Monica Garcia,1929 W Pico Blvd Los Angeles CA 90006,34.046741100000006,-118.2808919,20,98
+Leapwood Elementary,90746,K- 5,S,7-Dr Richard A Vladovic,19302 Leapwood Ave Carson CA 90746,33.8561726,-118.26157020000001,0,0
+Grape Street Elementary,90059,K- 5,S,7-Dr Richard A Vladovic,1940 E 111th St Los Angeles CA 90059,33.9340901,-118.23795179999999,31,73
+Annalee Avenue Elementary,90746,K- 6,S,7-Dr Richard A Vladovic,19410 S Annalee Ave Carson CA 90746,33.8541809,-118.25186200000002,0,0
+2nd Street Elementary,90033,K- 6,E,2-Monica Garcia,1942 E 2nd St Los Angeles CA 90033,34.0448464,-118.21670619999999,9,28
+Broadacres Avenue Elementary,90746,K- 5,S,7-Dr Richard A Vladovic,19424 S Broadacres Ave Carson CA 90746,33.8541865,-118.23955090000001,0,0
+Sven Lokrantz Special Education Center,91335,K- 8,NW,3-Scott M Schmerelson,19451 Wyandotte St Reseda CA 91335,34.203708,-118.55695300000001,8,22
+Shirley Avenue Elementary,91335,K- 5,NW,3-Scott M Schmerelson,19452 Hart St Reseda CA 91335,34.19608300000001,-118.55711299999999,8,20
+Crestwood Street Elementary,90275,K- 5,S,7-Dr Richard A Vladovic,1946 W Crestwood St Rancho Palos Verdes CA 90275,33.749528000000005,-118.31264540000001,3,6
+Chapman Elementary,90249,K- 5,S,7-Dr Richard A Vladovic,1947 Marine Ave Gardena CA 90249,33.8951949,-118.31318119999999,0,0
+Florence Griffith Joyner Elem Visual/Perf Arts Magnet,90002,1- 5,S,7-Dr Richard A Vladovic,1963 E 103rd St Los Angeles CA 90002,33.943524,-118.23740359999998,27,71
+Chime Institute'S Schwarzenegger Community School,91364,K- 8,XR,4-Nick Melvoin,19722 Collier St Woodland Hills CA 91364,34.165537799999996,-118.56299399999999,3,11
+Calvert Charter for Enriched Studies,91367,K- 5,NW,4-Nick Melvoin,19850 Delano St Woodland Hills CA 91367,34.181774,-118.565165,1,22
+Ivy Bound Academy M/S/T Charter Middle School #2,91324,5- 7,XR,3-Scott M Schmerelson,20040 Parthenia St Northridge CA 91324,34.2278972,-118.5702232,2,8
+Learning by Design Charter,90062,K- 1,XR,1-Dr George J McKenna III,2009 W Ml King Jr Blvd Los Angeles CA 90062,34.0112527,-118.3154645,10,32
+3rd Street Elementary,90004,K- 5,W,1-Dr George J McKenna III,201 S June St Los Angeles CA 90004,34.070545,-118.33500929999998,0,8
+Norwood Street Elementary,90007,K- 5,C,2-Monica Garcia,2020 Oak St Los Angeles CA 90007,34.0349098,-118.2787451,14,64
+Alliance Gertz-Ressler Richard Merkin Acad 6-12 Complex,90007,6-12,XR,2-Monica Garcia,2023 Union Av Los Angeles CA 90007,34.036564299999995,-118.28303429999998,14,60
+Griffin Avenue Elementary,90031,K- 5,E,2-Monica Garcia,2025 Griffin Ave Los Angeles CA 90031,34.06812710000001,-118.21195420000001,3,18
+Alliance Tennenbaum Family Technology High School,90065,9-12,XR,5-Vacant,2050 N San Fernando Rd Los Angeles CA 90065,34.102259499999995,-118.23739779999998,4,14
+Westwood Charter Elementary,90025,K- 5,W,4-Nick Melvoin,2050 Selby Ave Los Angeles CA 90025,34.0473643,-118.42993799999999,7,45
+24th Street Elementary,90018,K- 4,C,1-Dr George J McKenna III,2055 W 24th St Los Angeles CA 90018,34.035011700000005,-118.3107152,36,75
+Eagle Rock Elementary,90041,K- 6,C,5-Vacant,2057 Fair Park Ave Los Angeles CA 90041,34.136413899999994,-118.21314220000001,2,7
+South Shores Elementary Performing Arts Magnet,90732,K- 5,S,7-Dr Richard A Vladovic,2060 W 35th St San Pedro CA 90732,33.7224647,-118.3219747,1,1
+Sunny Brae Avenue Elementary,91306,K- 5,NW,3-Scott M Schmerelson,20620 Arminta St Winnetka CA 91306,34.21331,-118.582692,4,33
+KIPP Promesa Preparatory,90063,K- 1,XR,2-Monica Garcia,207 S Dacotah St Los Angeles CA 90063,34.03760949999999,-118.20181090000001,9,34
+Alliance Collins Family College Ready High School,90255,9-12,XR,5-Vacant,2071 Saturn Ave Huntington Park CA 90255,33.9775179,-118.23411409999999,0,2
+Germain Academy for Academic Achievement,91311,K- 5,NW,3-Scott M Schmerelson,20730 Germain St Chatsworth CA 91311,34.2618776,-118.58463090000001,3,5
+Aspire Centennial College Preparatory Academy,90255,6- 7,XR,5-Vacant,2079 Saturn Ave Huntington Park CA 90255,33.9774403,-118.2338801,0,1
+Woodland Hills Academy,91367,6- 8,NW,4-Nick Melvoin,20800 Burbank Blvd Woodland Hills CA 91367,34.170387,-118.58674599999999,0,13
+156th Street Elementary,90249,K- 6,S,7-Dr Richard A Vladovic,2100 W 156th St Gardena CA 90249,33.88894459999999,-118.3168838,0,0
+Multnomah Street Elementary Gifted Magnet,90032,2- 5,E,2-Monica Garcia,2101 N Indiana Ave Los Angeles CA 90032,34.0686034,-118.1933102,0,9
+Hart Street Elementary,91303,K- 5,NW,3-Scott M Schmerelson,21040 Hart St Canoga Park CA 91303,34.19663,-118.59169299999999,13,39
+William Tell Aggeler Opportunity High School,91311,7-12,NW,3-Scott M Schmerelson,21050 Plummer St Chatsworth CA 91311,34.2424216,-118.59244170000001,1,6
+Alliance College Ready Middle Academy #5,90031,6- 8,XR,2-Monica Garcia,211 S Avenue 20 Los Angeles CA 90031,34.0722263,-118.22040729999999,8,16
+74th Street Elementary,90047,K- 5,W,1-Dr George J McKenna III,2112 W 74th St Los Angeles CA 90047,33.97249420000001,-118.31596680000001,5,30
+Leland Street Elementary,90731,K- 6,S,7-Dr Richard A Vladovic,2120 S Leland St San Pedro CA 90731,33.724661600000005,-118.30085079999999,3,37
+Del Amo Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,21228 Water St Carson CA 90745,33.837708899999996,-118.240205,0,0
+Dominguez Elementary,90810,K- 5,S,7-Dr Richard A Vladovic,21250 Santa Fe Ave Carson CA 90810,33.835943,-118.2145868,0,0
+New Academy Canoga Park,91303,K- 5,XR,3-Scott M Schmerelson,21425 Cohasset St Canoga Park CA 91303,34.2070675,-118.59823440000001,7,31
+Commonwealth Avenue Elementary Gifted Arts/Tech Magnet,90004,2- 5,C,2-Monica Garcia,215 S Commonwealth Ave Los Angeles CA 90004,34.070664,-118.28593500000001,15,88
+Clifford Street Math & Technology Magnet,90039,K- 6,C,5-Vacant,2150 Duane St Los Angeles CA 90039,34.0893198,-118.25815870000001,5,11
+Halldale Elementary,90501,K- 5,S,7-Dr Richard A Vladovic,21514 Halldale Ave Torrance CA 90501,33.8329686,-118.3013075,2,10
+Andrew Carnegie Middle School,90745,6- 8,S,7-Dr Richard A Vladovic,21820 Bonita St Carson CA 90745,33.83015779999999,-118.258601,0,0
+Bonita Street Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,21929 Bonita St Carson CA 90745,33.8282352,-118.25988000000001,0,0
+Cahuenga Elementary,90004,K- 5,C,2-Monica Garcia,220 S Hobart Blvd Los Angeles CA 90004,34.070565,-118.3052203,35,84
+Chatsworth Park Elementary,91311,K- 5,NW,3-Scott M Schmerelson,22005 Devonshire St Chatsworth CA 91311,34.257548799999995,-118.6063781,1,1
+New Heights Charter School,90008,K- 8,XR,1-Dr George J McKenna III,2202 W Ml King Jr Blvd Los Angeles CA 90008,34.010639399999995,-118.31767930000001,9,42
+Topanga Elementary Charter School,90290,K- 5,W,4-Nick Melvoin,22075 Topanga School Rd Topanga CA 90290,34.092144899999994,-118.6039338,0,0
+Central City Value School,90004,9-12,XR,2-Monica Garcia,221 N Westmoreland Ave Los Angeles CA 90004,34.075094,-118.28861699999999,15,63
+City of Angels Independent Studies,90063,K-12,XS,2-Monica Garcia,221 S Eastman Ave Los Angeles CA 90063,34.0339047,-118.1859983,0,3
+Allesandro Elementary,90039,K- 5,C,5-Vacant,2210 Riverside Dr Los Angeles CA 90039,34.1019317,-118.25187109999999,5,10
+William J Johnston Community Day School,90731,7-12,S,7-Dr Richard A Vladovic,2210 Taper Ave San Pedro CA 90731,33.76537630000001,-118.29940459999999,0,5
+Stephen M White Middle School,90745,6- 8,S,7-Dr Richard A Vladovic,22102 S Figueroa St Carson CA 90745,33.8262917,-118.2855761,0,3
+Lomita Elementary Math/Science/Technology Magnet,90717,K- 5,S,7-Dr Richard A Vladovic,2211 247th St Lomita CA 90717,33.8009926,-118.3204304,0,2
+Glassell Park Elementary,90065,K- 5,C,5-Vacant,2211 W Avenue 30 Los Angeles CA 90065,34.1045093,-118.23663359999999,6,17
+Nevada Avenue Elementary,91304,K- 5,NW,3-Scott M Schmerelson,22120 Chase St West Hills CA 91304,34.2238057,-118.6074703,9,17
+Woodland Hills Charter Elementary for Enriched Studies,91364,K- 5,NW,4-Nick Melvoin,22201 San Miguel St Woodland Hills CA 91364,34.1590551,-118.6103884,2,4
+Mark Twain Middle School,90066,6- 8,W,4-Nick Melvoin,2224 Walgrove Ave Los Angeles CA 90066,33.9998229,-118.4480037,7,29
+Dorris Place Elementary,90031,K- 6,C,5-Vacant,2225 Dorris Pl Los Angeles CA 90031,34.09127,-118.238638,0,7
+Christopher Columbus Middle School,91304,6- 8,NW,3-Scott M Schmerelson,22250 Elkwood St Canoga Park CA 91304,34.211755,-118.6111062,2,18
+Extera Public School,90033,K- 5,XR,2-Monica Garcia,2226 E 3rd St Los Angeles CA 90033,34.04262,-118.21301899999999,12,31
+Carson Senior High - Academy of Education and Empowerment,90745,9-12,S,7-Dr Richard A Vladovic,22328 S Main St Carson CA 90745,33.82380429999999,-118.2755152,0,0
+Caroldale Learning Community,90745,K- 8,S,7-Dr Richard A Vladovic,22424 Caroldale Ave Carson CA 90745,33.8225625,-118.28349540000002,0,3
+Charles H Kim Elementary School,90004,K- 5,C,2-Monica Garcia,225 S Oxford Ave Los Angeles CA 90004,34.070277000000004,-118.3082491,26,80
+Dolores Street Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,22526 Dolores St Carson CA 90745,33.8214287,-118.2720078,0,0
+Hamlin Charter Academy,91307,K- 5,NW,3-Scott M Schmerelson,22627 Hamlin St West Hills CA 91307,34.189828999999996,-118.619992,4,16
+Eagle Tree Continuation High,90745,9-12,S,7-Dr Richard A Vladovic,22628 S Main St Carson CA 90745,33.8214408,-118.27522920000001,0,0
+Animo College Preparatory Academy,90002,9-12,XR,7-Dr Richard A Vladovic,2265 E 103rd St Los Angeles CA 90002,33.9449522,-118.22972800000001,17,48
+Enadia Way Technology Charter,91307,K- 5,NW,3-Scott M Schmerelson,22944 Enadia Way West Hills CA 91307,34.19962279999999,-118.6269733,0,8
+MacArthur Park Elementary Visual and Performing Arts DL Spa,90057,K- 5,C,2-Monica Garcia,2300 W 7th St Los Angeles CA 90057,34.057542600000005,-118.2795295,54,95
+Joseph Pomeroy Widney Career Preparatory & Transition Center,90018,11-12,C,1-Dr George J McKenna III,2302 S Gramercy Pl Los Angeles CA 90018,34.0358401,-118.31297509999999,34,76
+New Designs,90007,6-12,XR,2-Monica Garcia,2303 Figueroa Way Los Angeles CA 90007,34.0308099,-118.27517720000002,11,69
+Calabash Charter Academy,91364,K- 5,NW,4-Nick Melvoin,23055 Eugene St Woodland Hills CA 91364,34.158581,-118.62949099999999,0,1
+Ramona Opportunity High School,90063,7-12,E,2-Monica Garcia,231 S Alma Ave Los Angeles CA 90063,34.03403529999999,-118.19113020000002,0,16
+Woodlake Elementary Community Charter,91367,K- 5,NW,3-Scott M Schmerelson,23231 Hatteras St Woodland Hills CA 91367,34.176305,-118.63338999999999,0,9
+232nd Place Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,23240 Archibald Ave Carson CA 90745,33.814467,-118.282311,0,0
+Frank Lanterman High School,90007,9-11,C,2-Monica Garcia,2328 St James Pl Los Angeles CA 90007,34.0319824,-118.27843100000001,7,63
+Justice Street Academy Charter,91304,K- 5,NW,3-Scott M Schmerelson,23350 Justice St West Hills CA 91304,34.2155285,-118.63571940000001,0,2
+Samuel Gompers Middle School,90061,6- 8,S,7-Dr Richard A Vladovic,234 E 112th St Los Angeles CA 90061,33.9319959,-118.27365220000002,27,68
+Los Angeles Leadership Academy Charter School,90031,6-12,XR,2-Monica Garcia,234 E Avenue 33 Los Angeles CA 90031,34.0831975,-118.2105834,5,21
+Welby Way Charter Elementary and Gifted-High Ability Magnet,91307,K- 5,NW,3-Scott M Schmerelson,23456 Welby Way West Hills CA 91307,34.191624,-118.637774,3,4
+Catskill Avenue Elementary,90745,K- 5,S,7-Dr Richard A Vladovic,23536 Catskill Ave Carson CA 90745,33.8116,-118.27079740000002,0,0
+Vernon City Elementary,90058,K- 6,E,5-Vacant,2360 E Vernon Ave Los Angeles CA 90058,34.0035091,-118.23123580000001,0,7
+George Ellery Hale Charter Academy,91367,6- 8,NW,3-Scott M Schmerelson,23830 Califa St Woodland Hills CA 91367,34.1772223,-118.64553049999999,3,6
+Charles White Elementary School,90057,1- 5,C,2-Monica Garcia,2401 Wilshire Blvd Los Angeles CA 90057,34.0603794,-118.27975249999999,50,100
+Academia Moderna,90255,K- 5,XR,5-Vacant,2410 Broadway Walnut Park CA 90255,33.9665903,-118.22972800000001,0,0
+Middleton Street Primary Center,90255,K- 1,E,5-Vacant,2410 Zoe Ave Huntington Park CA 90255,33.9789059,-118.2291798,0,1
+Marvin Elementary,90016,K- 5,W,1-Dr George J McKenna III,2411 Marvin Ave Los Angeles CA 90016,34.035593,-118.36431699999999,5,22
+Mayberry Street Elementary,90026,K- 6,C,5-Vacant,2414 Mayberry St Los Angeles CA 90026,34.084211200000006,-118.26495049999998,8,17
+Roscomare Road Elementary,90077,K- 5,W,4-Nick Melvoin,2425 Roscomare Rd Los Angeles CA 90077,34.119631700000006,-118.4639791,0,0
+Nathaniel Narbonne Senior High,90710,9-12,S,7-Dr Richard A Vladovic,24300 S Western Ave Harbor City CA 90710,33.803684499999996,-118.30651189999999,3,9
+Shenandoah Street Elementary,90034,K- 5,W,1-Dr George J McKenna III,2450 Shenandoah St Los Angeles CA 90034,34.038507,-118.384125,11,22
+George S Patton Continuation High,90710,9-12,S,7-Dr Richard A Vladovic,24514 S Western Ave Harbor City CA 90710,33.802124,-118.307244,3,10
+Leo Politi Elementary,90006,K- 5,C,2-Monica Garcia,2481 W 11th St Los Angeles CA 90006,34.050999,-118.286892,19,98
+Broad Avenue Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,24815 Broad Ave Wilmington CA 90744,33.801478,-118.262795,0,2
+Port of Los Angeles High School,90731,9-12,XR,7-Dr Richard A Vladovic,250 W 5th St San Pedro CA 90731,33.740444200000006,-118.28258190000001,28,81
+Pueblo De Los Angeles Continuation High,90031,9-12,E,2-Monica Garcia,2506 Alta St Los Angeles CA 90031,34.07603710000001,-118.20382079999999,5,12
+Hollenbeck Middle School,90023,6- 8,E,2-Monica Garcia,2510 E 6th St Los Angeles CA 90023,34.036739000000004,-118.2125554,15,39
+Alexander Fleming Middle School,90717,6- 8,S,7-Dr Richard A Vladovic,25425 Walnut St Lomita CA 90717,33.7923726,-118.31382260000001,0,12
+Utah Street Elementary,90033,K- 8,E,2-Monica Garcia,255 Gabriel Garcia Marquez St Los Angeles CA 90033,34.048499,-118.22471399999999,3,23
+Boyle Heights Science Tech Engin Math High School,90023,9-12,E,2-Monica Garcia,2550 E 6th St Los Angeles CA 90023,34.0368456,-118.2098906,18,45
+Renaissance Arts Academy,90065,6-12,XR,5-Vacant,2558 N San Fernando Rd Los Angeles CA 90065,34.1080318,-118.2417895,5,28
+Southeast Middle School DREAMS Magnet,90280,6- 8,E,5-Vacant,2560 Tweedy Blvd South Gate CA 90280,33.9458132,-118.22497630000001,4,25
+Aspire Pacific Academy,90255,10-12,XR,5-Vacant,2565 58th St Huntington Park CA 90255,33.990414799999996,-118.2260729,0,5
+Eshelman Avenue Elementary,90717,K- 5,S,7-Dr Richard A Vladovic,25902 Eshelman Ave Lomita CA 90717,33.7878624,-118.3142772,0,8
+Dolores Huerta Elementary School,90011,K- 5,C,2-Monica Garcia,260 E 31st St Los Angeles CA 90011,34.0191593,-118.2684527,13,48
+Cienega Elementary,90016,K- 5,W,1-Dr George J McKenna III,2611 S Orange Dr Los Angeles CA 90016,34.031958,-118.35370209999999,7,26
+Angeles Mesa Elementary,90043,K- 5,W,1-Dr George J McKenna III,2611 W 52nd St Los Angeles CA 90043,33.9956571,-118.32213159999999,10,53
+Metro Charter School,90031,K- 4,XR,2-Monica Garcia,2635 Pasadena Ave Los Angeles CA 90031,34.078001,-118.215701,6,20
+Stella Middle Charter Academy,90016,5- 8,XR,1-Dr George J McKenna III,2636 S Mansfield Ave Los Angeles CA 90016,34.031560299999995,-118.35235870000001,7,27
+Walnut Park Elementary Dual Language Spanish,90255,K- 1,E,5-Vacant,2642 E Olive St Huntington Park CA 90255,33.96761559999999,-118.2238341,0,0
+Pacific Boulevard School,90255,K- 5,E,5-Vacant,2660 E 57th St Huntington Pk CA 90255,33.9908456,-118.223697,0,1
+Farmdale Elementary,90032,K- 5,E,2-Monica Garcia,2660 Ruth Swiggett Dr Los Angeles CA 90032,34.0778922,-118.17978290000002,4,13
+Prepa Tec Los Angeles,90255,6- 7,XR,5-Vacant,2665 Clarendon Ave Huntington Park CA 90255,33.983729,-118.2234,0,0
+Los Angeles Leadership Primary Academy,90031,K- 3,XR,2-Monica Garcia,2670 Griffin Ave Los Angeles CA 90031,34.0785674,-118.21149720000001,6,19
+Simon Rodia Continuation High,90280,9-12,E,5-Vacant,2701 Sequoia Dr South Gate CA 90280,33.942448999999996,-118.22319440000001,2,30
+Los Feliz Charter School for the Arts,90065,K- 6,XR,5-Vacant,2709 E Media Center Dr Los Angeles CA 90065,34.1107058,-118.2452582,7,28
+South East Senior High,90280,9-12,E,5-Vacant,2720 Tweedy Blvd South Gate CA 90280,33.945405900000004,-118.2219414,0,17
+Equitas Academy 2,90005,5- 5,XR,2-Monica Garcia,2723 W 8th St Los Angeles CA 90005,34.058063,-118.28491129999999,42,101
+Hoover Street Elementary,90005,K- 5,C,2-Monica Garcia,2726 Francis Ave Los Angeles CA 90005,34.0565545,-118.28582469999999,44,97
+Liberty Boulevard Elementary,90280,K- 5,E,5-Vacant,2728 Liberty Blvd South Gate CA 90280,33.961315899999995,-118.22209779999999,0,0
+Evergreen Avenue Elementary,90033,K- 6,E,2-Monica Garcia,2730 Ganahl St Los Angeles CA 90033,34.0522869,-118.197423,4,18
+Carmen Lomas Garza Primary Center,90023,K- 2,E,2-Monica Garcia,2750 E Hostetter St Los Angeles CA 90023,34.024462299999996,-118.21816840000001,12,59
+Willow Elementary,90280,K- 5,E,5-Vacant,2777 Willow Pl South Gate CA 90280,33.9552914,-118.2220261,0,5
+Rudecinda Sepulveda Dodson Middle School,90275,6- 8,S,7-Dr Richard A Vladovic,28014 Montereina Dr Rancho Palos Verdes CA 90275,33.766016,-118.315592,0,0
+28th Street Elementary,90011,K- 5,C,2-Monica Garcia,2807 Stanford Ave Los Angeles CA 90011,34.01854829999999,-118.2612048,16,48
+KIPP Los Angeles College Preparatory,90023,5- 8,XR,2-Monica Garcia,2810 Whittier Blvd Los Angeles CA 90023,34.0312389,-118.209441,12,42
+1st Street Elementary,90033,K- 6,E,2-Monica Garcia,2820 E First St Los Angeles CA 90033,34.040862,-118.20456979999999,12,34
+Sunrise Elementary,90023,K- 6,E,2-Monica Garcia,2821 E 7th St Los Angeles CA 90023,34.029607,-118.2102864,13,51
+Ivanhoe Elementary,90039,K- 5,C,5-Vacant,2828 Herkimer St Los Angeles CA 90039,34.1087883,-118.2668919,0,11
+Stanford Avenue Elementary,90280,1- 5,E,5-Vacant,2833 Illinois Ave South Gate CA 90280,33.9510783,-118.2217736,0,17
+El Sereno Middle School Gifted Magnet,90032,6- 8,E,2-Monica Garcia,2839 N Eastern Ave Los Angeles CA 90032,34.0799751,-118.17841010000001,3,15
+Henry T Gage Middle School,90255,6- 8,E,5-Vacant,2880 E Gage Ave Huntington Park CA 90255,33.9809755,-118.2175706,0,0
+Vista Charter Middle School,90026,6- 8,XR,2-Monica Garcia,2900 W Temple St Los Angeles CA 90026,34.0738866,-118.2787451,9,50
+San Antonio Continuation High,90255,9-12,E,5-Vacant,2911 Belgrave Ave Huntington Park CA 90255,33.987588200000005,-118.21719109999998,0,0
+Virginia Road Elementary,90016,K- 5,W,1-Dr George J McKenna III,2925 Virginia Rd Los Angeles CA 90016,34.028156700000004,-118.3397646,6,25
+Alliance Leichtman-Levine FFES High,90065,9-12,XR,5-Vacant,2930 Fletcher Dr Los Angeles CA 90065,34.1138929,-118.24667779999999,12,28
+Alliance Renee & Meyer Luskin Academy High School,90043,9-12,XR,1-Dr George J McKenna III,2941 W 70th St Los Angeles CA 90043,33.9766229,-118.3258838,16,36
+Alexander Hamilton Senior High,90034,9-12,W,1-Dr George J McKenna III,2955 S Robertson Blvd Los Angeles CA 90034,34.034135,-118.39161499999999,6,14
+Dr Maya Angelou Community Senior High,90011,9-12,C,7-Dr Richard A Vladovic,300 E 53rd St Los Angeles CA 90011,33.994039799999996,-118.2679653,18,70
+Orthopaedic Hospital Senior High Medical Magnet,90007,9-12,C,2-Monica Garcia,300 W 23rd St Los Angeles CA 90007,34.0288436,-118.27121090000001,18,69
+Washington Irving Middle School Math Music Engineering Mag,90065,6- 8,C,5-Vacant,3010 Estara Ave Los Angeles CA 90065,34.1157592,-118.2411035,18,30
+Stanford Avenue Primary Center,90280,K- K,E,5-Vacant,3020 Kansas Ave South Gate CA 90280,33.9484035,-118.21762009999999,0,5
+John W Mack Elementary,90007,K- 5,C,1-Dr George J McKenna III,3020 S Catalina St Los Angeles CA 90007,34.0264362,-118.2934521,10,44
+Rise Kohyang Middle,90010,6- 7,XR,2-Monica Garcia,3020 Wilshire Blvd Ste 250 Los Angeles CA 90010,34.061105600000005,-118.28746899999999,35,113
+Whitney Young Continuation High,90043,9-12,W,1-Dr George J McKenna III,3051 W 52nd St Los Angeles CA 90043,33.995160999999996,-118.32612490000001,13,48
+Ernest P Willenberg Special Education Center,90732,6-12,S,7-Dr Richard A Vladovic,308 Weymouth Ave San Pedro CA 90732,33.739548299999996,-118.3091753,3,28
+Gratts Learning Academy for Young Scholars (GLAYS),90017,2- 6,C,2-Monica Garcia,309 Lucas Ave Los Angeles CA 90017,34.0583375,-118.2624838,5,83
+Lafayette Park Primary Center,90057,K- K,C,2-Monica Garcia,310 S La Fayette Park Pl Los Angeles CA 90057,34.0664029,-118.28059499999999,17,95
+Watts Learning Center School,90003,K- 5,XR,7-Dr Richard A Vladovic,310 W 95th St Los Angeles CA 90003,33.94981729999999,-118.2788314,23,94
+6th Avenue Elementary,90018,K- 5,W,1-Dr George J McKenna III,3109 6th Ave Los Angeles CA 90018,34.02663,-118.324179,7,23
+Belvedere Middle School,90063,6- 8,E,2-Monica Garcia,312 N Record Ave Los Angeles CA 90063,34.039318,-118.180466,0,0
+Young Empowered Scholars Academy,90043,K- 5,W,1-Dr George J McKenna III,3140 Hyde Park Blvd Los Angeles CA 90043,33.980510200000005,-118.3278787,15,37
+Mid-City's Prescott School of Enriched Sciences,90018,1- 5,W,1-Dr George J McKenna III,3150 W Adams Blvd Los Angeles CA 90018,34.0326395,-118.31831229999999,7,58
+Garvanza Elementary Technology/Leadership Magnet,90042,K- 5,C,5-Vacant,317 N Avenue 62 Los Angeles CA 90042,34.11787329999999,-118.182525,3,10
+Sierra Park Elementary,90032,K- 6,E,2-Monica Garcia,3170 Budau Ave Los Angeles CA 90032,34.082312200000004,-118.1690883,8,14
+Ambler Avenue Elementary Gifted Magnet,90746,1- 5,S,7-Dr Richard A Vladovic,319 E Sherman Dr Carson CA 90746,33.877738,-118.27150049999999,0,1
+Ednovate- Esperanza College Prep,90022,9- 9,XR,2-Monica Garcia,319 N Humphreys Ave Los Angeles CA 90022,34.038931,-118.17147659999998,0,0
+Malabar Street Elementary,90063,K- 6,E,2-Monica Garcia,3200 E Malabar St Los Angeles CA 90063,34.044251,-118.1943156,1,18
+Math and Science College Preparatory,90018,9- 9,XR,1-Dr George J McKenna III,3200 W Adams Blvd Los Angeles CA 90018,34.0319097,-118.3189807,6,57
+Carson-Gore Academy of Environmental Studies,90018,K- 5,W,1-Dr George J McKenna III,3200 W Washington Blvd Los Angeles CA 90018,34.0394287,-118.31930039999999,23,67
+RFK Comm Schls - Ambassador School - Global Education DL Kor,90005,K- 5,C,2-Monica Garcia,3201 W 8th St Los Angeles CA 90005,34.05828579999999,-118.29741240000001,20,102
+San Pedro Senior High Marine Science/Tech/Math Magnet,90731,9-12,S,7-Dr Richard A Vladovic,3210 S Alma St San Pedro CA 90731,33.7165066,-118.29859740000002,1,15
+State Street Elementary,90280,K- 5,E,5-Vacant,3211 Santa Ana St South Gate CA 90280,33.963896000000005,-118.21206200000002,0,0
+Miguel Contreras Learning Complex - Acdemic Ldrshp Community,90017,9-12,C,2-Monica Garcia,322 Lucas Ave Los Angeles CA 90017,34.0577989,-118.26111340000001,5,94
+Albion Street Elementary,90031,K- 6,E,2-Monica Garcia,322 S Avenue 18 Los Angeles CA 90031,34.0691474,-118.22047579999999,5,14
+Lucille Roybal-Allard Elementary,90255,K- 6,E,5-Vacant,3232 Saturn Ave Huntington Park CA 90255,33.9758816,-118.2098261,0,0
+Alain Leroy Locke College Preparatory Academy,90061,9-12,XR,7-Dr Richard A Vladovic,325 E 111th St Los Angeles CA 90061,33.935105,-118.26865049999999,28,75
+Atwater Avenue Elementary,90039,K- 6,C,5-Vacant,3271 Silver Lake Blvd Los Angeles CA 90039,34.115704,-118.254944,9,31
+93rd Street Elementary,90003,K- 6,S,7-Dr Richard A Vladovic,330 E 93rd St Los Angeles CA 90003,33.951096,-118.268202,19,103
+Harvard Elementary,90004,K- 5,W,2-Monica Garcia,330 N Harvard Blvd Los Angeles CA 90004,34.0772018,-118.3042303,24,109
+Florence Nightingale Middle School Gifted STEM Magnet,90065,6- 8,E,5-Vacant,3311 N Figueroa St Los Angeles CA 90065,34.08773100000001,-118.219127,3,20
+Victoria Avenue Elementary,90280,K- 5,E,5-Vacant,3320 Missouri Ave South Gate CA 90280,33.946425899999994,-118.21090320000002,0,0
+93rd Street Elementary STEAM Magnet,90003,1- 5,S,7-Dr Richard A Vladovic,333 E 93rd St Los Angeles CA 90003,33.9522205,-118.2683597,19,89
+Mar Vista Elementary,90066,K- 5,W,4-Nick Melvoin,3330 Granville Ave Los Angeles CA 90066,34.016106799999996,-118.4344252,1,6
+Point Fermin Elementary Marine Science Magnet,90731,K- 5,S,7-Dr Richard A Vladovic,3333 Kerckhoff Ave San Pedro CA 90731,33.7139196,-118.29043770000001,3,13
+Gates Street Elementary,90031,K- 5,E,2-Monica Garcia,3333 Manitou Ave Los Angeles CA 90031,34.073434999999996,-118.205937,3,16
+Fletcher Drive Elementary,90065,K- 5,C,5-Vacant,3350 Fletcher Dr Los Angeles CA 90065,34.1174878,-118.2396422,13,29
+South Gate Senior High,90280,9-12,E,5-Vacant,3351 Firestone Blvd South Gate CA 90280,33.9560708,-118.2093189,0,0
+Camino Nuevo Charter Academy #2,90020,K- 8,XR,2-Monica Garcia,3400 W 3rd St Los Angeles CA 90020,34.0685541,-118.28888490000001,13,93
+Loreto Street Elementary,90065,K- 5,E,5-Vacant,3408 Arroyo Seco Ave Los Angeles CA 90065,34.086726299999995,-118.21634070000002,3,20
+Glen Alta Elementary,90031,K- 8,E,2-Monica Garcia,3410 Sierra St Los Angeles CA 90031,34.0851497,-118.19952509999999,3,8
+ISANA Nascent Academy,90018,K- 8,XR,1-Dr George J McKenna III,3417 W Jefferson Blvd Los Angeles CA 90018,34.025868200000005,-118.33334340000002,4,22
+Ednovate-East College Prep,90071,9- 9,XR,2-Monica Garcia,350 S Figueroa St Los Angeles CA 90071,34.053717999999996,-118.25500159999999,37,208
+Animo Jackie Robinson,90007,9-12,XR,2-Monica Garcia,3500 S Hill St Los Angeles CA 90007,34.0172594,-118.27536509999999,13,47
+Camino Nuevo High School #2,90004,9-12,XR,2-Monica Garcia,3500 W Temple St Los Angeles CA 90004,34.0764139,-118.2858476,13,49
+Lincoln ESP Magnet,90031,9-12,E,2-Monica Garcia,3501 N Broadway Los Angeles CA 90031,34.074706799999994,-118.2040366,6,14
+Palms Elementary,90034,K- 5,W,1-Dr George J McKenna III,3520 Motor Ave Los Angeles CA 90034,34.0263501,-118.4079582,8,10
+Harrison Street Elementary,90063,K- 6,E,2-Monica Garcia,3529 City Terrace Dr Los Angeles CA 90063,34.0537888,-118.18896880000001,1,6
+Susan Miller Dorsey Senior High Law/Public Srv/Pol Srv Mag,90016,9-12,W,1-Dr George J McKenna III,3537 Farmdale Ave Los Angeles CA 90016,34.0228135,-118.3463895,2,19
+Dr Sammy Lee Elementary Medical and Health Science Magnet,90004,K- 5,C,2-Monica Garcia,3600 Council St Los Angeles CA 90004,34.074275,-118.28856509999999,15,66
+Maple Primary Center,90011,K- 1,C,2-Monica Garcia,3601 S Maple Ave Los Angeles CA 90011,34.015479,-118.27073,14,46
+Angel's Gate Continuation High,90731,9-12,S,7-Dr Richard A Vladovic,3607 S Gaffey St San Pedro CA 90731,33.7114309,-118.29295,2,7
+Loma Vista Elementary,90270,K- 5,E,5-Vacant,3629 E 58th St Maywood CA 90270,33.989823,-118.1996165,0,0
+Beethoven Street Elementary,90066,K- 5,W,4-Nick Melvoin,3711 Beethoven St Los Angeles CA 90066,34.002043900000004,-118.44327820000001,3,19
+Belvedere Elementary,90063,K- 5,E,2-Monica Garcia,3724 E First St Los Angeles CA 90063,34.035758799999996,-118.18627250000002,0,3
+Gabriella Charter 2,90011,K- 2,XR,2-Monica Garcia,3736 Trinity St Los Angeles CA 90011,34.012117100000005,-118.26933570000001,16,56
+Dr Theodore T Alexander Jr Science Center School,90007,K- 5,C,1-Dr George J McKenna III,3737 S Figueroa St Los Angeles CA 90007,34.0170902,-118.2839064,10,52
+Foshay Learning Center,90018,K-12,C,1-Dr George J McKenna III,3751 S Harvard Blvd Los Angeles CA 90018,34.0192234,-118.306525,10,53
+Magnolia Science Academy #6,90034,6- 8,XR,1-Dr George J McKenna III,3754 Dunn Dr Los Angeles CA 90034,34.0240419,-118.4001763,3,10
+New Academy of Science & Arts,90017,K- 5,XR,2-Monica Garcia,379 S Loma Dr Los Angeles CA 90017,34.059301700000006,-118.2669604,15,72
+Corona Avenue Elementary,90201,1- 5,E,5-Vacant,3825 Bell Ave Bell CA 90201,33.9757126,-118.1976287,0,0
+PUC Santa Rosa Charter Academy,90065,7- 8,XR,5-Vacant,3838 Eagle Rock Blvd Los Angeles CA 90065,34.1185977,-118.23061899999999,10,22
+El Sereno Elementary,90032,K- 6,E,5-Vacant,3838 Rosemead Ave Los Angeles CA 90032,34.090007,-118.175956,5,9
+Thomas Bradley Global Awareness Magnet,90008,K- 5,W,1-Dr George J McKenna III,3875 Dublin Ave Los Angeles CA 90008,34.015156299999994,-118.3225882,4,43
+Carpenter Community Charter,91604,K- 5,NE,3-Scott M Schmerelson,3909 Carpenter Ave Studio City CA 91604,34.1411016,-118.392257,0,2
+Accelerated Charter Elementary,90037,K- 6,XR,2-Monica Garcia,3914 S Main St Los Angeles CA 90037,34.011432,-118.27368500000001,19,50
+Ednovate - USC Hybrid High College Prep,90037,9-10,XR,2-Monica Garcia,3939 S Vermont Ave Los Angeles CA 90037,34.0137215,-118.2916956,20,62
+John Marshall Senior High Gifted Magnet,90027,9-12,C,5-Vacant,3939 Tracy St Los Angeles CA 90027,34.1077961,-118.2771922,3,5
+Grand View Boulevard Elementary,90066,K- 5,W,4-Nick Melvoin,3951 Grand View Blvd Los Angeles CA 90066,34.0023667,-118.42959979999999,6,22
+Glenfeliz Boulevard Elementary,90039,K- 6,C,5-Vacant,3955 Glenfeliz Blvd Los Angeles CA 90039,34.1225096,-118.26759990000001,14,17
+James J McBride Special Education Center,90066,6-12,W,4-Nick Melvoin,3960 Centinela Ave Los Angeles CA 90066,34.001280799999996,-118.4308281,6,24
+Stella Elementary Charter Academy,90008,K- K,XR,1-Dr George J McKenna III,3970 Potomac Ave Los Angeles CA 90008,34.0141158,-118.34912720000001,1,19
+Mount Washington Elementary,90065,K- 6,C,5-Vacant,3981 San Rafael Ave Los Angeles CA 90065,34.104808500000004,-118.2159867,1,17
+Martin Luther King Jr Elementary,90062,K- 5,C,1-Dr George J McKenna III,3989 S Hobart Blvd Los Angeles CA 90062,34.01173970000001,-118.30806640000002,13,52
+Early College Academy - LA Trade Tech College,90015,9-12,C,2-Monica Garcia,400 W Washington Blvd Los Angeles CA 90015,34.032551500000004,-118.2697468,29,86
+Wallis Annenberg High School,90037,9-12,XR,7-Dr Richard A Vladovic,4000 S Main St Los Angeles CA 90037,34.010732,-118.27376640000001,20,56
+Marlton School,90008,PK-12,W,1-Dr George J McKenna III,4000 Santo Tomas Dr Los Angeles CA 90008,34.0088989,-118.343775,3,34
+City Language Immersion Charter,90019,K- 2,XR,1-Dr George J McKenna III,4001 Venice Blvd Los Angeles CA 90019,34.0439581,-118.3248642,7,70
+Ricardo Lizarraga Elementary,90011,K- 5,C,7-Dr Richard A Vladovic,401 E 40th Pl Los Angeles CA 90011,34.0105253,-118.2676913,15,57
+Robert F Kennedy Elementary,90063,K- 6,E,5-Vacant,4010 E Ramboz Drive Los Angeles CA 90063,34.05388060000001,-118.17756640000002,0,0
+Center for Advanced Learning,90011,K- 5,XR,5-Vacant,4016 S Central Ave Los Angeles CA 90011,34.010628499999996,-118.2557915,9,44
+Hillcrest Drive Elementary,90008,K- 5,W,1-Dr George J McKenna III,4041 Hillcrest Dr Los Angeles CA 90008,34.013276399999995,-118.347633,2,21
+122nd Street Elementary,90061,K- 5,S,7-Dr Richard A Vladovic,405 E 122nd St Los Angeles CA 90061,33.922068100000004,-118.2674172,3,23
+Wilshire Park Elementary School,90005,K- 5,W,2-Monica Garcia,4063 Ingraham St Los Angeles CA 90005,34.06097889999999,-118.3165408,12,35
+Johnnie L Cochran Jr Middle School,90019,6- 8,W,1-Dr George J McKenna III,4066 W Johnnie Cochran Vista Los Angeles CA 90019,34.0417463,-118.32683490000002,7,47
+Hancock Park Elementary,90036,K- 5,W,4-Nick Melvoin,408 S Fairfax Ave Los Angeles CA 90036,34.069502,-118.360216,6,18
+South Gate Middle School,90280,6- 8,E,5-Vacant,4100 Firestone Blvd South Gate CA 90280,33.9531625,-118.1981384,0,0
+Rancho Dominguez Preparatory School,90810,6-12,S,7-Dr Richard A Vladovic,4110 Santa Fe Ave Long Beach CA 90810,33.833734,-118.21596240000001,0,0
+Eastman Avenue Elementary,90023,K- 5,E,2-Monica Garcia,4112 E Olympic Blvd Los Angeles CA 90023,34.01724060000001,-118.18471869999999,0,8
+Audubon Middle School,90008,6- 8,W,1-Dr George J McKenna III,4120 11th Ave Los Angeles CA 90008,34.009304799999995,-118.32921110000001,27,45
+Manual Arts Senior High,90037,9-12,C,1-Dr George J McKenna III,4131 S Vermont Ave Los Angeles CA 90037,34.0088223,-118.2921733,23,69
+Global Education Academy,90037,K- 5,XR,1-Dr George J McKenna III,4141 S Figueroa St Los Angeles CA 90037,34.0083565,-118.28313,15,79
+Menlo Avenue Elementary,90037,K- 5,C,1-Dr George J McKenna III,4156 Menlo Ave Los Angeles CA 90037,34.0077277,-118.28966129999999,18,76
+Sheridan Street Elementary,90033,K- 6,E,2-Monica Garcia,416 N Cornwell St Los Angeles CA 90033,34.0502723,-118.2076132,11,30
+Delevan Drive Elementary,90065,K- 6,C,5-Vacant,4168 W Avenue 42 Los Angeles CA 90065,34.1275464,-118.22721509999998,5,17
+Charles W Barrett Elementary,90003,K- 5,S,1-Dr George J McKenna III,419 W 98th St Los Angeles CA 90003,33.9477666,-118.28102890000001,22,88
+4th Street Elementary,90022,2- 5,E,2-Monica Garcia,420 S Amalia Ave Los Angeles CA 90022,34.0286833,-118.15331940000002,0,0
+Thomas Starr King MS Env Sci/Tech/Engineering/Arts/Math Mag,90029,6- 8,C,5-Vacant,4201 Fountain Ave Los Angeles CA 90029,34.0960386,-118.28102890000001,1,14
+Canyon Charter Elementary,90402,K- 5,W,4-Nick Melvoin,421 Entrada Dr Santa Monica CA 90402,34.032899799999996,-118.5119618,0,2
+Rosemont Avenue Elementary,90026,2- 5,C,2-Monica Garcia,421 N Rosemont Ave Los Angeles CA 90026,34.0723117,-118.2699067,10,38
+Esteban Torres HS - East Los Angeles Performing Arts Magnet,90063,9-12,E,2-Monica Garcia,4211 Dozier St Los Angeles CA 90063,34.0421073,-118.1752691,0,0
+Alexandria Avenue Elementary,90004,K- 5,C,2-Monica Garcia,4211 Oakwood Ave Los Angeles CA 90004,34.0777955,-118.29895819999999,26,105
+Marianna Avenue Elementary,90063,K- 6,E,2-Monica Garcia,4215 E Gleason St Los Angeles CA 90063,34.035360600000004,-118.17530409999999,0,0
+Dixie Canyon Community Charter,91423,K- 5,NE,3-Scott M Schmerelson,4220 Dixie Canyon Ave Sherman Oaks CA 91423,34.1476033,-118.4245706,1,6
+Barton Hill Elementary,90731,K- 6,S,7-Dr Richard A Vladovic,423 N Pacific Ave San Pedro CA 90731,33.7465033,-118.28824540000001,35,67
+42nd Street Elementary,90008,K- 5,W,1-Dr George J McKenna III,4231 4th Ave Los Angeles CA 90008,34.0063961,-118.3217663,6,61
+Lanai Road Elementary,91436,K- 5,NW,4-Nick Melvoin,4241 Lanai Rd Encino CA 91436,34.148169700000004,-118.49273729999999,0,2
+Teresa P Hughes Elementary,90201,K- 6,E,5-Vacant,4242 Clara St Cudahy CA 90201,33.9658136,-118.193036,0,0
+Rio Vista Elementary,91602,K- 5,NE,3-Scott M Schmerelson,4243 Satsuma Ave North Hollywood CA 91602,34.147487899999994,-118.36782190000001,2,11
+Bandini Street Elementary,90731,K- 6,S,7-Dr Richard A Vladovic,425 N Bandini St San Pedro CA 90731,33.7464271,-118.29920659999999,4,60
+Latona Avenue Elementary,90031,K- 6,E,2-Monica Garcia,4312 Berenice Ave Los Angeles CA 90031,34.09190039999999,-118.2026324,2,16
+West Vernon Avenue Elementary,90037,K- 5,C,7-Dr Richard A Vladovic,4312 S Grand Ave Los Angeles CA 90037,34.0047559,-118.2800697,20,68
+Bell Senior High Gifted Science/Tech/Eng/Math Magnet,90201,9-12,E,5-Vacant,4328 Bell Ave Bell CA 90201,33.9724171,-118.19013729999999,0,0
+Sierra Vista Elementary,90032,K- 6,E,5-Vacant,4342 Alpha St Los Angeles CA 90032,34.095657,-118.15851200000002,0,4
+Lockwood Avenue Elementary,90029,K- 6,C,5-Vacant,4345 Lockwood Ave Los Angeles CA 90029,34.0890364,-118.28888490000001,9,44
+City Terrace Elementary,90063,K- 5,E,5-Vacant,4350 City Terrace Dr Los Angeles CA 90063,34.056952700000004,-118.1712983,0,0
+Coliseum Street Elementary,90016,K- 5,W,1-Dr George J McKenna III,4400 Coliseum St Los Angeles CA 90016,34.018094500000004,-118.34354760000001,2,23
+George Washington Carver Middle School,90011,6- 8,C,5-Vacant,4410 Mc Kinley Ave Los Angeles CA 90011,34.003133,-118.2621,8,60
+Marguerite Poindexter LaMotte Elementary,90037,K- 5,C,1-Dr George J McKenna III,4410 Orchard Ave Los Angeles CA 90037,34.0260907,-118.28823829999999,8,50
+KIPP Vida Preparatory Academy,90037,K- 4,XR,1-Dr George J McKenna III,4410 S Budlong Ave Los Angeles CA 90037,34.003387,-118.2956835,19,75
+Nueva Vista Elementary,90201,K- 6,E,5-Vacant,4412 Randolph St Bell CA 90201,33.9809106,-118.1882376,0,0
+Huntington Drive Elementary,90032,K- 6,E,2-Monica Garcia,4435 N Huntington Dr Los Angeles CA 90032,34.0826932,-118.1918344,1,10
+Jaime Escalante Elementary School,90201,K- 6,E,5-Vacant,4443 Live Oak St Cudahy CA 90201,33.968362,-118.18853500000002,0,0
+Bryson Avenue Elementary Science/Tech/Math Magnet,90280,1- 5,E,5-Vacant,4470 Missouri Ave South Gate CA 90280,33.944823799999995,-118.1926976,0,0
+Inner City Education Foundation Vista Elementary Academy,90066,K- 5,XR,4-Nick Melvoin,4471 Inglewood Blvd Los Angeles CA 90066,33.99455220000001,-118.41870630000001,18,24
+Ramon C Cortines School of Visual & Performing Arts,90012,9-12,C,2-Monica Garcia,450 N Grand Ave Los Angeles CA 90012,34.0599321,-118.2442108,11,72
+Woodrow Wilson Senior High,90032,9-12,E,2-Monica Garcia,4500 Multnomah St Los Angeles CA 90032,34.069770500000004,-118.1863639,2,10
+Normandie Avenue Elementary,90037,K- 5,C,1-Dr George J McKenna III,4505 S Raymond Ave Los Angeles CA 90037,34.002928999999995,-118.29899999999999,16,70
+Walter Reed Middle School,91602,6- 8,NE,3-Scott M Schmerelson,4525 Irvine Ave North Hollywood CA 91602,34.152956599999996,-118.3860967,1,14
+Alfonso B Perez Special Education Center,90022,6-12,E,2-Monica Garcia,4540 Michigan Ave Los Angeles CA 90022,34.038796600000005,-118.16804840000002,0,0
+Toland Way Elementary,90041,K- 6,C,5-Vacant,4545 Toland Way Los Angeles CA 90041,34.1212287,-118.2172545,6,19
+Theodore Roosevelt Senior High,90033,9-12,E,2-Monica Garcia,456 S Mathews St Los Angeles CA 90033,34.0375223,-118.2120058,13,42
+Lexington Avenue Primary Center,90029,K- 2,C,5-Vacant,4564 W Lexington Ave Los Angeles CA 90029,34.0927845,-118.28797140000002,6,34
+Alliance Alice M Baxter College Ready High School,90731,9-12,XR,7-Dr Richard A Vladovic,461 W 9th St San Pedro CA 90731,33.7357534,-118.28724059999999,47,83
+Alliance P & P Neuwirth College Ready High School,90037,9-12,XR,7-Dr Richard A Vladovic,4610 S Main St Los Angeles CA 90037,34.0012848,-118.2738304,20,71
+Brooklyn Avenue Elementary,90022,K- 8,E,2-Monica Garcia,4620 Cesar Chavez Ave Los Angeles CA 90022,34.0397088,-118.16420649999999,0,0
+Los Angeles Senior High,90019,9-12,W,1-Dr George J McKenna III,4650 W Olympic Blvd Los Angeles CA 90019,34.055405,-118.3329852,4,17
+Monterey Continuation High,90022,9-12,E,2-Monica Garcia,466 S Fraser Ave Los Angeles CA 90022,34.0283414,-118.1588828,0,0
+4th Street Primary Center,90022,K- 1,E,2-Monica Garcia,469 Amalia Ave Los Angeles CA 90022,34.0272893,-118.15441640000002,0,0
+View Park Continuation High,90016,9-12,W,1-Dr George J McKenna III,4701 Rodeo Rd Los Angeles CA 90016,34.021839899999996,-118.34827220000001,2,15
+Braddock Drive Elementary,90230,K- 5,W,4-Nick Melvoin,4711 Inglewood Blvd Culver City CA 90230,33.9929575,-118.415503,20,23
+Para Los Ninos - Evelyn Thurman Gratts Primary,90017,K- 1,XR,2-Monica Garcia,474 S Hartford Ave Los Angeles CA 90017,34.056217600000004,-118.26392009999999,10,98
+Griffith Middle School STEAM Magnet,90022,6- 8,E,2-Monica Garcia,4765 E 4th St Los Angeles CA 90022,34.031282899999994,-118.1620496,0,0
+KIPP Iluminar Academy,90022,K- 1,XR,2-Monica Garcia,4800 E Cesar Chavez Ave Los Angeles CA 90022,34.0402535,-118.16140970000001,0,0
+Arroyo Seco Museum Science Magnet,90042,K- 8,C,2-Monica Garcia,4805 Sycamore Terr Los Angeles CA 90042,34.1024094,-118.2038205,2,20
+Elizabeth Learning Center,90201,K-12,E,5-Vacant,4811 Elizabeth St Cudahy CA 90201,33.9631779,-118.18290719999999,0,0
+Toluca Lake Elementary,91601,K- 5,NE,4-Nick Melvoin,4840 Cahuenga Blvd North Hollywood CA 91601,34.1592791,-118.3612155,5,18
+Morris K Hamasaki El Medical/Science Magnet,90022,1- 5,E,2-Monica Garcia,4865 E 1st St Los Angeles CA 90022,34.0373561,-118.16018390000002,0,0
+George de la Torre Jr Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,500 N Island Ave Wilmington CA 90744,33.7764426,-118.26590039999999,20,28
+Humphreys Avenue Elementary,90022,K- 5,E,2-Monica Garcia,500 S Humphreys Ave Los Angeles CA 90022,34.0289434,-118.17082509999999,0,0
+Van Ness Avenue Elementary,90004,K- 5,W,4-Nick Melvoin,501 N Van Ness Ave Los Angeles CA 90004,34.0808105,-118.31607690000001,12,92
+Puente Charter,90033,K- K,XR,2-Monica Garcia,501 S Boyle Ave Los Angeles CA 90033,34.0415799,-118.2201788,4,31
+Crenshaw Magnets: Science Tech Engineer Math & Medicine,90043,9-12,W,1-Dr George J McKenna III,5010 11th Ave Los Angeles CA 90043,33.997372,-118.3285655,21,53
+Serrania Avenue Charter for Enriched Studies,91364,K- 5,NW,4-Nick Melvoin,5014 Serrania Ave Woodland Hills CA 91364,34.160522,-118.587346,0,3
+Buchanan Street Elementary Science/Tech/Math Magnet,90042,K- 5,C,5-Vacant,5024 Buchanan St Los Angeles CA 90042,34.1192482,-118.20637690000001,7,17
+Ellen Ochoa Learning Center,90201,K- 8,E,5-Vacant,5027 Live Oak St Cudahy CA 90201,33.9678828,-118.1767795,0,0
+ICEF Innovation Los Angeles Charter,90037,K- 5,XR,1-Dr George J McKenna III,5029 S Vermont Ave Los Angeles CA 90037,33.997091499999996,-118.29188159999998,20,71
+Rosewood Avenue Elementary Urban Planning/Design Magnet,90048,K- 5,W,4-Nick Melvoin,503 N Croft Ave Los Angeles CA 90048,34.0806155,-118.37453290000002,3,13
+Robert A Millikan Affiliated Charter and Performing Arts MS,91423,6- 8,NE,3-Scott M Schmerelson,5041 Sunnyslope Ave Sherman Oaks CA 91423,34.163518700000004,-118.42848700000002,1,15
+Nestle Avenue Charter,91356,K- 5,NW,4-Nick Melvoin,5060 Nestle Ave Tarzana CA 91356,34.161862,-118.529913,3,10
+Dahlia Heights Elementary,90041,K- 6,C,5-Vacant,5063 Floristan Ave Los Angeles CA 90041,34.138537299999996,-118.1991595,1,5
+Figueroa Street Elementary,90044,K- 5,S,7-Dr Richard A Vladovic,510 W 111th St Los Angeles CA 90044,33.934388,-118.2829473,17,55
+James A Garfield Senior High,90022,9-12,E,2-Monica Garcia,5101 E 6th St Los Angeles CA 90022,34.0254305,-118.1578243,0,0
+Holmes Avenue Elementary,90058,K- 6,E,5-Vacant,5108 Holmes Ave Los Angeles CA 90058,33.9957647,-118.2404646,15,28
+Alliance Marc & Eva Stern Math & Science School,90032,9-12,XR,5-Vacant,5151 State University Dr Lot2 Los Angeles CA 90032,34.066769799999996,-118.1684392,0,7
+KIPP Academy of Innovation,90022,5- 8,XR,5-Vacant,5164 Whittier Blvd Los Angeles CA 90022,34.020335700000004,-118.1581416,0,0
+Maywood Elementary School,90270,K- 5,E,5-Vacant,5200 Cudahy Ave Maywood CA 90270,33.99330560000001,-118.1839875,0,0
+Kingsley Elementary School,90029,K- 5,W,5-Vacant,5200 W Virginia Ave Los Angeles CA 90029,34.091666,-118.3028793,47,123
+Wilbur Charter for Enriched Academics,91356,K- 5,NW,4-Nick Melvoin,5213 Crebs Ave Tarzana CA 91356,34.164432,-118.54470400000001,1,8
+Windsor Hills Elementary Math/Science Aerospace Magnet,90043,K- 5,W,1-Dr George J McKenna III,5215 Overdale Dr Los Angeles CA 90043,33.9957253,-118.3556932,0,2
+International Studies Learning Center,90280,6-12,E,5-Vacant,5225 Tweedy Blvd South Gate CA 90280,33.941267100000005,-118.1789574,0,0
+North Hollywood Senior High,91601,9-12,NE,3-Scott M Schmerelson,5231 Colfax Ave North Hollywood CA 91601,34.1666154,-118.38956280000001,6,25
+Wilshire Crest Elementary,90036,K- 5,W,1-Dr George J McKenna III,5241 W Olympic Blvd Los Angeles CA 90036,34.057988,-118.343595,1,16
+Cesar Chavez Elementary School,90032,K- 6,E,2-Monica Garcia,5243 Oakland St Los Angeles CA 90032,34.0886468,-118.1680828,4,13
+Lankershim Elementary,91601,K- 5,NE,3-Scott M Schmerelson,5250 Bakman Ave North Hollywood CA 91601,34.16635,-118.37683600000001,16,38
+ICEF View Park Preparatory MS,90043,6- 8,XR,1-Dr George J McKenna III,5311 Crenshaw Blvd Los Angeles CA 90043,33.9943634,-118.3311751,13,43
+Kester Avenue Elementary,91411,K- 5,NE,3-Scott M Schmerelson,5353 Kester Ave Van Nuys CA 91411,34.167578999999996,-118.458537,4,20
+Amelia Earhart Continuation High School,91601,9-12,NE,3-Scott M Schmerelson,5355 Colfax Ave North Hollywood CA 91601,34.1680679,-118.3880348,6,31
+Alliance Ouchi-O'Donovan 6-12 Complex,90043,6-12,XR,1-Dr George J McKenna III,5356 S 5th Ave Los Angeles CA 90043,33.993472600000004,-118.3222229,13,49
+Saturn Street Elementary,90019,K- 5,W,1-Dr George J McKenna III,5360 Saturn St Los Angeles CA 90019,34.046602500000006,-118.3561935,5,31
+Hawaiian Avenue Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,540 Hawaiian Ave Wilmington CA 90744,33.775751,-118.27618729999999,11,24
+Baldwin Hills Elementary,90016,K- 5,W,1-Dr George J McKenna III,5421 Rodeo Rd Los Angeles CA 90016,34.022506,-118.36529499999999,5,10
+Monte Vista Street Elementary,90042,2- 6,C,5-Vacant,5423 Monte Vista St Los Angeles CA 90042,34.1100939,-118.19826840000002,7,14
+Henry David Thoreau Continuation High,91364,9-12,NW,4-Nick Melvoin,5429 Quakertown Ave Woodland Hills CA 91364,34.169030600000006,-118.56997240000001,10,11
+Bright Star Secondary Academy,90045,9-12,XR,4-Nick Melvoin,5431 W 98th St Los Angeles CA 90045,33.9484199,-118.375952,6,18
+High Tech LA Middle,91411,6- 7,XR,6-Kelly Gonez,5435 Vesper Ave Van Nuys CA 91411,34.1695042,-118.4512307,7,53
+Boyle Heights Continuation High,90033,9-12,E,2-Monica Garcia,544 S Mathews St Los Angeles CA 90033,34.0376714,-118.21126880000001,16,42
+El Camino Real Charter High School,91367,9-12,XR,3-Scott M Schmerelson,5440 Valley Circle Blvd Woodland Hills CA 91367,34.170164899999996,-118.64314569999999,1,5
+Animo Westside Charter Middle School,90066,6- 8,XR,4-Nick Melvoin,5456 Mcconnell Ave Los Angeles CA 90066,33.9775312,-118.4185456,0,4
+William Howard Taft Charter High School,91364,9-12,NW,4-Nick Melvoin,5461 Winnetka Ave Woodland Hills CA 91364,34.1696153,-118.57168229999999,11,11
+54th Street Elementary,90043,K- 5,W,1-Dr George J McKenna III,5501 S Eileen Ave Los Angeles CA 90043,33.9919629,-118.34331840000002,1,22
+Bushnell Way Elementary,90042,K- 5,C,5-Vacant,5507 Bushnell Way Los Angeles CA 90042,34.102383,-118.18903780000001,0,6
+East Valley Senior High,91601,9-12,NE,6-Kelly Gonez,5525 Vineland Ave North Hollywood CA 91601,34.1705929,-118.37153290000002,14,35
+Richard Riordan Primary Center,90042,K- 1,C,5-Vacant,5531 Monte Vista St Los Angeles CA 90042,34.1112688,-118.1961206,9,15
+Open Charter Magnet,90045,K- 5,W,4-Nick Melvoin,5540 W 77th St Los Angeles CA 90045,33.968163200000006,-118.37828909999999,0,9
+Citizens of the World Silver Lake,90028,K- 4,XR,5-Vacant,5616 Carlton Way Los Angeles CA 90028,34.0996454,-118.3124848,50,209
+Yorkdale Elementary,90042,K- 5,C,5-Vacant,5657 Meridian St Los Angeles CA 90042,34.120906299999994,-118.19413279999999,6,18
+Clemente Charter School,90270,K- 6,XR,5-Vacant,5701 Fishburn Ave Maywood CA 90270,33.989427899999995,-118.19135700000001,0,0
+ICEF View Park Preparatory HS,90043,9-12,XR,1-Dr George J McKenna III,5701 S Crenshaw Blvd Los Angeles CA 90043,33.990283399999996,-118.33124120000001,10,45
+Tarzana Elementary,91356,K- 5,NW,4-Nick Melvoin,5726 Topeka Dr Tarzana CA 91356,34.1748974,-118.54581609999998,4,28
+The City School,90016,6- 8,XR,4-Nick Melvoin,5753 Obama Blvd Los Angeles CA 90016,34.0220016,-118.3711378,4,8
+Richard A Alonzo Community Day School,90028,7-12,W,4-Nick Melvoin,5755 Fountain Ave Los Angeles CA 90028,34.0948999,-118.31511440000001,51,244
+Morningside Elementary,91340,K- 5,NE,6-Kelly Gonez,576 N Maclay Ave San Fernando CA 91340,34.2882223,-118.43388020000002,0,11
+Maywood Center for Enriched Studies (MaCES) Magnet,90270,6-12,E,5-Vacant,5800 King Ave Maywood CA 90270,33.9873205,-118.1830899,0,0
+Alliance Kory Hunter Middle School,90001,6- 8,XR,7-Dr Richard A Vladovic,5886 Compton Ave Los Angeles CA 90001,33.987055700000006,-118.24745039999999,10,26
+Lillian Street Elementary,90001,K- 6,E,5-Vacant,5909 Lillian St Los Angeles CA 90001,33.986352200000006,-118.24067099999999,9,18
+Heliotrope Avenue Elementary,90270,K- 5,E,5-Vacant,5911 Woodlawn Ave Maywood CA 90270,33.98580889999999,-118.1769037,0,0
+California Collegiate Charter,90044,6- 7,XR,1-Dr George J McKenna III,5929 S Vermont Ave Los Angeles CA 90044,33.9865188,-118.2920462,14,76
+Los Angeles Center for Enriched Studies (LACES) Magnet,90035,6-12,W,1-Dr George J McKenna III,5931 W 18th St Los Angeles CA 90035,34.0438008,-118.37153290000002,8,34
+59th Street Elementary,90043,K- 5,W,1-Dr George J McKenna III,5939 Second Ave Los Angeles CA 90043,33.9860362,-118.3199397,2,49
+Budlong Avenue Elementary,90044,K- 5,W,1-Dr George J McKenna III,5940 S Budlong Ave Los Angeles CA 90044,33.986184,-118.293935,13,67
+New Horizons Charter Academy,91601,K- 7,XR,6-Kelly Gonez,5955 Lankershim Blvd North Hollywood CA 91601,34.1788313,-118.3835842,5,36
+Rise Kohyang High,90057,9-10,XR,2-Monica Garcia,600 S Lafayette Park Pl 2nd F Los Angeles CA 90057,34.0624284,-118.28217079999999,41,97
+John Burroughs Middle School Gifted Magnet,90005,6- 8,W,1-Dr George J McKenna III,600 S Mc Cadden Pl Los Angeles CA 90005,34.0636937,-118.3363325,1,6
+Rowan Avenue Elementary,90023,K- 5,E,2-Monica Garcia,600 S Rowan Ave Los Angeles CA 90023,34.0282941,-118.18714080000001,1,14
+Westport Heights Elementary,90045,K- 5,W,4-Nick Melvoin,6011 W 79th St Los Angeles CA 90045,33.9670289,-118.388425,0,10
+Cheremoya Avenue Elementary,90028,K- 6,W,4-Nick Melvoin,6017 Franklin Ave Los Angeles CA 90028,34.1056527,-118.32067079999999,61,409
+Huntington Park Senior High,90255,9-12,E,5-Vacant,6020 Miles Ave Huntington Park CA 90255,33.986631200000005,-118.2188995,0,0
+61st Street Elementary,90003,K- 6,W,1-Dr George J McKenna III,6020 S Figueroa St Los Angeles CA 90003,33.9844968,-118.2819881,28,90
+Chester W Nimitz Middle School,90255,6- 8,E,5-Vacant,6021 Carmelita Ave Huntington Park CA 90255,33.9858976,-118.19719450000001,0,0
+Alliance Jack H Skirball Middle School,90059,6- 8,XR,7-Dr Richard A Vladovic,603 E 115th St Los Angeles CA 90059,33.9304172,-118.264973,8,74
+Bridge Street Elementary,90033,K- 5,E,2-Monica Garcia,605 N Boyle Ave Los Angeles CA 90033,34.052647799999995,-118.216889,10,23
+John B Monlux Elementary,91606,K- 5,NE,3-Scott M Schmerelson,6051 Bellaire Ave North Hollywood CA 91606,34.181682,-118.40996399999999,2,23
+Huntington Park Elementary Dual Language Spanish,90255,K- 1,E,5-Vacant,6055 Corona Ave Huntington Park CA 90255,33.9848797,-118.1950754,0,0
+Dayton Heights Elementary,90004,K- 5,C,5-Vacant,607 N Westmoreland Ave Los Angeles CA 90004,34.082133,-118.2883368,9,52
+Diego Rivera Learning Complex Communication & Technology,90001,9-12,S,7-Dr Richard A Vladovic,6100 S Central Ave Los Angeles CA 90001,33.983250299999995,-118.2554946,3,31
+Crete Academy,90043,K- 6,XR,1-Dr George J McKenna III,6103 Crenshaw Blvd Los Angeles CA 90043,33.984497499999996,-118.3312625,17,33
+Harold McAlister High School CYESIS,90057,6-12,C,2-Monica Garcia,611 S Carondelet St Los Angeles CA 90057,34.0611239,-118.28034380000001,48,99
+Gil Garcetti Learning Academy,90044,K- 6,S,7-Dr Richard A Vladovic,612 W 68th St Los Angeles CA 90044,33.9772612,-118.28434299999999,30,92
+Maywood Academy Senior High,90270,9-12,E,5-Vacant,6125 Pine Ave Maywood CA 90270,33.9829878,-118.18887279999998,0,0
+Annandale Elementary,90042,K- 5,C,5-Vacant,6125 Poppy Peak Dr Los Angeles CA 90042,34.1285474,-118.18666090000002,3,12
+Warner Avenue Elementary,90024,K- 5,W,4-Nick Melvoin,615 Holmby Ave Los Angeles CA 90024,34.0696414,-118.43333259999999,1,3
+Young Oak Kim Academy,90005,6- 8,C,2-Monica Garcia,615 S Shatto Pl Los Angeles CA 90005,34.0633021,-118.29020940000001,29,114
+Solano Avenue Elementary,90012,K- 6,E,2-Monica Garcia,615 Solano Ave Los Angeles CA 90012,34.076153999999995,-118.232196,2,15
+Lockhurst Drive Charter Elementary,91367,K- 5,NW,3-Scott M Schmerelson,6170 Lockhurst Dr Woodland Hills CA 91367,34.1833399,-118.64703440000001,3,8
+San Antonio Elementary,90255,K- 5,E,5-Vacant,6222 State St Huntington Park CA 90255,33.9831034,-118.2120477,0,0
+Sylvan Park Elementary,91411,K- 5,NE,6-Kelly Gonez,6238 Noble Ave Van Nuys CA 91411,34.183604100000004,-118.46144070000001,10,108
+Equitas Academy 4,90005,5- 5,XR,4-Nick Melvoin,631 S Commonwealth Ave Los Angeles CA 90005,34.06242599999999,-118.28587009999998,34,110
+Woodlawn Avenue Elementary,90201,K- 5,E,5-Vacant,6314 Woodlawn Ave Bell CA 90201,33.9779925,-118.1776226,0,0
+Victory Boulevard Elementary,91606,K- 5,NE,6-Kelly Gonez,6315 Radford Ave North Hollywood CA 91606,34.1855899,-118.3922898,11,32
+Aldama Elementary,90042,K- 5,C,5-Vacant,632 N Avenue 50 Los Angeles CA 90042,34.1102323,-118.2064709,4,15
+Carthay Elementary of Environmental Studies Magnet,90048,K- 5,W,1-Dr George J McKenna III,6351 W Olympic Blvd Los Angeles CA 90048,34.059194700000006,-118.3691642,2,30
+Linda Esperanza Marquez Senior High HPIAM,90255,9-12,E,5-Vacant,6361 Cottage St Huntington Park CA 90255,33.9819497,-118.2338757,0,10
+Martha Escutia Primary Center,90201,K- K,E,5-Vacant,6401 Bear Ave Bell CA 90201,33.9791701,-118.1977607,0,0
+Mountain View Elementary,91042,K- 5,NE,6-Kelly Gonez,6410 Olcott St Tujunga CA 91042,34.2488873,-118.2723504,1,6
+Magnolia Science Academy Bell @ South Region MS #2A,90201,6- 8,XR,5-Vacant,6411 Orchard Ave Bell CA 90201,33.9791247,-118.20005420000001,0,0
+Summit Preparatory Charter,90011,4- 4,XR,7-Dr Richard A Vladovic,644 56th St Los Angeles CA 90011,33.990728499999996,-118.2642196,16,60
+Alliance Dr Olga Mohan High School,90015,9-12,XR,2-Monica Garcia,644 W 17th St Los Angeles CA 90015,34.0369283,-118.2722591,30,88
+Kenter Canyon Elementary Charter,90049,K- 5,W,4-Nick Melvoin,645 N Kenter Ave Los Angeles CA 90049,34.0707234,-118.4890885,0,0
+Luther Burbank Middle School Arts/Technology/Community Mag,90042,6- 8,C,5-Vacant,6460 N Figueroa St Los Angeles CA 90042,34.11972069999999,-118.1833019,4,10
+Van Nuys Elementary,91401,K- 5,NE,6-Kelly Gonez,6464 Sylmar Ave Van Nuys CA 91401,34.188146,-118.44544099999999,75,125
+Luther Burbank Middle School Police Academy Magnet,90042,6- 8,C,5-Vacant,6468 N Figueroa St Los Angeles CA 90042,34.119712299999996,-118.1836788,4,12
+Gardena Elementary,90247,K- 5,S,7-Dr Richard A Vladovic,647 W Gardena Blvd Gardena CA 90247,33.88255170000001,-118.28655549999999,4,5
+John H Liechty Middle School,90017,6- 8,C,2-Monica Garcia,650 S Union Ave Los Angeles CA 90017,34.05457579999999,-118.2693814,27,89
+Thomas A Edison Middle School,90001,6- 8,S,7-Dr Richard A Vladovic,6500 Hooper Ave Los Angeles CA 90001,33.9807494,-118.2516457,2,23
+Independence Continuation High,91406,9-12,NW,3-Scott M Schmerelson,6501 Balboa Blvd Lake Balboa CA 91406,34.1898531,-118.50223510000001,4,6
+Fair Avenue Elementary,91606,K- 5,NE,6-Kelly Gonez,6501 Fair Ave North Hollywood CA 91606,34.189953300000006,-118.37705600000001,15,34
+ISANA Palmati Academy,91606,K- 5,XR,6-Kelly Gonez,6501 Laurel Canyon Blvd North Hollywood CA 91606,34.18960510000001,-118.3975768,9,29
+Newcastle Elementary School,91335,K- 5,NW,6-Kelly Gonez,6520 Newcastle Ave Reseda CA 91335,34.189534,-118.523881,2,25
+Van Nuys Senior High,91411,9-12,NE,6-Kelly Gonez,6535 Cedros Ave Van Nuys CA 91411,34.189234,-118.45516299999998,47,128
+Middleton Street Elementary,90255,1- 6,E,5-Vacant,6537 Malabar St Huntington Park CA 90255,33.9797109,-118.2280375,0,1
+Westside Innovative School House Community,90045,7- 8,XR,4-Nick Melvoin,6550 W 80th St Los Angeles CA 90045,33.9677904,-118.4038765,0,4
+Ararat Charter School,91401,K- 5,XR,6-Kelly Gonez,6555 Sylmar Ave Van Nuys CA 91401,34.189870500000005,-118.4468206,74,123
+66th Street Elementary,90003,K- 6,S,7-Dr Richard A Vladovic,6600 S San Pedro St Los Angeles CA 90003,33.97957299999999,-118.26796499999999,11,73
+Manchester Avenue Elementary,90044,1- 6,S,1-Dr George J McKenna III,661 W 87th St Los Angeles CA 90044,33.95921920000001,-118.2861471,27,82
+Selma Avenue Elementary,90028,K- 5,W,4-Nick Melvoin,6611 Selma Ave Los Angeles CA 90028,34.1004583,-118.3343797,445,538
+Haynes Charter for Enriched Studies,91307,K- 5,NW,3-Scott M Schmerelson,6624 Lockhurst Dr West Hills CA 91307,34.19044470000001,-118.64865230000001,0,8
+Daniel Pearl Senior High Journalism & Communications Magnet,91406,9-12,NW,3-Scott M Schmerelson,6649 Balboa Blvd Lake Balboa CA 91406,34.191306,-118.50188159999999,5,6
+KIPP Raices Academy,90022,K- 4,XR,2-Monica Garcia,668 S Atlantic Blvd Los Angeles CA 90022,34.02282960000001,-118.15624479999998,0,0
+Everest Value School,90005,K- 8,XR,2-Monica Garcia,668 S Catalina Ave Los Angeles CA 90005,34.061068799999994,-118.295258,21,105
+Columbus Avenue Elementary,91405,K- 5,NE,6-Kelly Gonez,6700 Columbus Ave Van Nuys CA 91405,34.19298450000001,-118.4635695,20,78
+Lake Balboa College Preparatory Magnet K-12,91406,K-12,NW,3-Scott M Schmerelson,6701 Balboa Blvd Lake Balboa CA 91406,34.1921506,-118.50138159999999,5,8
+Miles Avenue Elementary Science/Tech/Math Magnet,90255,1- 5,E,5-Vacant,6720 Miles Ave Huntington Park CA 90255,33.978041,-118.216816,0,0
+Aspire Titan Academy,90255,K- 5,XR,5-Vacant,6720 S Alameda St Huntington Park CA 90255,33.978062,-118.2343,0,2
+Aspire Junior Collegiate Academy,90255,K- 5,XR,5-Vacant,6724 S Alameda St Huntington Park CA 90255,33.9794717,-118.2357419,0,9
+Bellingham Elementary,91606,K- 5,NE,6-Kelly Gonez,6728 Bellingham Ave North Hollywood CA 91606,34.1929173,-118.3984259,6,30
+Esperanza Elementary,90017,K- 5,C,2-Monica Garcia,680 Little St Los Angeles CA 90017,34.054672499999995,-118.27228190000001,33,100
+Charter High School of Arts-Multimedia & Performing,91405,9-12,XR,6-Kelly Gonez,6842 Van Nuys Blvd Van Nuys CA 91405,34.1951615,-118.44756969999999,31,120
+Coldwater Canyon Elementary,91605,K- 5,NE,3-Scott M Schmerelson,6850 Coldwater Canyon Ave North Hollywood CA 91605,34.195174,-118.41259699999999,7,27
+Canoga Park Senior High,91303,9-12,NW,3-Scott M Schmerelson,6850 Topanga Cyn Blvd Canoga Park CA 91303,34.195205,-118.602999,11,29
+Andres & Maria Cardenas Elementary,91405,K- 5,NE,6-Kelly Gonez,6900 Calhoun Ave Van Nuys CA 91405,34.1962104,-118.44186709999998,23,108
+Owensmouth Continuation High,91303,9-12,NW,3-Scott M Schmerelson,6921 Jordan Ave Canoga Park CA 91303,34.1963885,-118.60310590000002,12,29
+Valley View Elementary,90068,K- 5,W,4-Nick Melvoin,6921 Woodrow Wilson Dr Los Angeles CA 90068,34.125356200000006,-118.34502820000002,0,3
+Fullbright Avenue Elementary,91306,K- 5,NW,4-Nick Melvoin,6940 Fullbright Ave Winnetka CA 91306,34.196928299999996,-118.5770542,6,31
+Camino Nuevo Charter Academy,90057,K- 8,XR,2-Monica Garcia,697 S Burlington Ave Los Angeles CA 90057,34.0554739,-118.27356090000002,39,95
+RFK Comm Schls - UCLA Community School K-12,90005,K-12,C,2-Monica Garcia,700 S Mariposa Ave Los Angeles CA 90005,34.0598735,-118.2983999,23,97
+Ednovate-Brio College Prep,90017,9- 9,XR,2-Monica Garcia,700 Wilshire Blvd Ste 400 Los Angeles CA 90017,34.0486245,-118.25745890000002,58,254
+Horace Mann UCLA Community School,90047,6-10,W,1-Dr George J McKenna III,7001 S St Andrews Pl Los Angeles CA 90047,33.976186,-118.3115258,10,28
+RFK Comm Schls - Ambassador School - Global Leadership,90005,6-12,C,2-Monica Garcia,701 S Catalina St Los Angeles CA 90005,34.0597704,-118.2973355,22,101
+Community Preparatory Academy,90047,K- 8,XR,1-Dr George J McKenna III,7019 S Van Ness Ave Los Angeles CA 90047,33.9757049,-118.31802169999999,8,28
+Bertrand Avenue Elementary,91335,K- 5,NW,6-Kelly Gonez,7021 Bertrand Ave Reseda CA 91335,34.197698200000005,-118.525232,7,24
+Hazeltine Avenue Elementary,91405,K- 5,NE,6-Kelly Gonez,7150 Hazeltine Ave Van Nuys CA 91405,34.20037200000001,-118.43908799999998,16,62
+Central Continuation High,90021,9-12,C,2-Monica Garcia,716 E 14th St Los Angeles CA 90021,34.031813299999996,-118.2539364,26,151
+Florence Avenue Elementary,90001,K- 6,E,7-Dr Richard A Vladovic,7211 Bell Ave Los Angeles CA 90001,33.973797,-118.238801,0,0
+Animo Ellen Ochoa Middle School,90023,6- 8,XR,2-Monica Garcia,725 S Indiana St Los Angeles CA 90023,34.025999600000006,-118.1933102,5,31
+Reseda Elementary,91335,K- 5,NW,3-Scott M Schmerelson,7265 Amigo Ave Reseda CA 91335,34.2037251,-118.53903259999998,6,26
+Metropolitan Continuation High,90021,9-12,E,2-Monica Garcia,727 S Wilson St Los Angeles CA 90021,34.0336955,-118.2347994,11,166
+O'Melveny Elementary,91340,K- 5,NE,6-Kelly Gonez,728 Woodworth St San Fernando CA 91340,34.27494,-118.445655,1,10
+KIPP Comienza Community Prep,90255,K- 3,XR,5-Vacant,7300 Roseberry Av Huntington Park CA 90255,33.9737459,-118.2321267,0,0
+Melrose Avenue Elementary Math/Science/Technology Magnet,90046,K- 5,W,4-Nick Melvoin,731 N Detroit St Los Angeles CA 90046,34.084255799999994,-118.3454186,12,47
+Cabrillo Avenue Elementary,90731,K- 5,S,7-Dr Richard A Vladovic,732 S Cabrillo Ave San Pedro CA 90731,33.7373778,-118.2933667,51,82
+ISANA Cardinal Academy,91352,K- 5,XR,6-Kelly Gonez,7330 Bakman Ave Sun Valley CA 91352,34.2038571,-118.3770963,1,26
+Ingenium Charter Middle School,91306,6- 7,XR,3-Scott M Schmerelson,7330 Winnetka Ave Winnetka CA 91306,34.202184,-118.56885190000001,8,26
+Stanley Mosk Elementary School,91306,K- 5,NW,4-Nick Melvoin,7335 Lubao Ave Winnetka CA 91306,34.203150799999996,-118.5682626,8,27
+Ivy Academia,91034,K-12,XR,3-Scott M Schmerelson,7353 Valley Circle Blvd West Hills CA 91034,34.206132399999994,-118.6543926,1,1
+Village Charter Academy,91303,K- 5,XR,3-Scott M Schmerelson,7357 Jordan Ave Canoga Park CA 91303,34.204044700000004,-118.60345929999998,8,31
+Anatola Avenue Elementary,91406,K- 5,NW,6-Kelly Gonez,7364 Anatola Ave Lake Balboa CA 91406,34.203923100000004,-118.5145211,4,8
+Brentwood Elementary Science Magnet,90049,K- 5,W,4-Nick Melvoin,740 Gretna Green Way Los Angeles CA 90049,34.0503367,-118.47418590000002,3,13
+Westchester Enriched Sciences Magnets-Envrnmntl Ntrl Sci Eng,90045,9-12,W,4-Nick Melvoin,7400 W Manchester Ave Los Angeles CA 90045,33.9577625,-118.42888789999999,2,5
+Canoga Park Elementary,91303,K- 5,NW,3-Scott M Schmerelson,7438 Topanga Canyon Blvd Canoga Park CA 91303,34.2055234,-118.60556129999999,5,27
+Wilton Place Elementary,90005,K- 5,W,2-Monica Garcia,745 S Wilton Pl Los Angeles CA 90005,34.0584479,-118.31460430000001,12,49
+Gardner Street Elementary,90046,K- 5,W,4-Nick Melvoin,7450 Hawthorn Ave Los Angeles CA 90046,34.0996426,-118.35199320000001,15,225
+Camellia Avenue Elementary,91605,K- 5,NE,6-Kelly Gonez,7451 Camellia Ave North Hollywood CA 91605,34.205797100000005,-118.38187250000001,2,26
+Robert Fulton College Preparatory School,91405,6-12,NE,6-Kelly Gonez,7477 Kester Ave Van Nuys CA 91405,34.207296299999996,-118.4577885,23,60
+49th Street Elementary,90011,K- 5,C,7-Dr Richard A Vladovic,750 E 49th St Los Angeles CA 90011,33.998533,-118.2617872,17,53
+Walnut Park Middle School - Social Justice and Srvice Lrning,90255,6- 8,E,5-Vacant,7500 Marbrisa Ave Walnut Park CA 90255,33.971560499999995,-118.23100729999999,0,0
+Multicultural Learning Center,91303,K- 8,XR,3-Scott M Schmerelson,7510 De Soto Ave Canoga Park CA 91303,34.20668870000001,-118.5882281,9,30
+Raymond Avenue Elementary,90044,K- 5,W,1-Dr George J McKenna III,7511 Raymond Ave Los Angeles CA 90044,33.9716915,-118.29928229999999,7,44
+Hope Street Elementary,90255,K- 5,E,5-Vacant,7560 State St Huntington Pk CA 90255,33.9691601,-118.20939469999999,0,0
+Cowan Avenue Elementary,90045,K- 5,W,4-Nick Melvoin,7615 Cowan Ave Los Angeles CA 90045,33.97265429999999,-118.4054288,0,2
+Pomelo Community Charter School,91304,K- 5,NW,3-Scott M Schmerelson,7633 March Ave West Hills CA 91304,34.208969700000004,-118.64305470000001,1,1
+Julie Korenstein Elementary,91605,K- 5,NE,6-Kelly Gonez,7650 Ben Ave North Hollywood CA 91605,34.2097361,-118.39408279999999,8,26
+John C Fremont Senior High,90003,9-12,S,7-Dr Richard A Vladovic,7676 S San Pedro St Los Angeles CA 90003,33.969584499999996,-118.266952,14,79
+Melvin Avenue Elementary,91335,K- 5,NW,3-Scott M Schmerelson,7700 Melvin Ave Reseda CA 91335,34.209680999999996,-118.55985090000001,2,23
+Mount Lukens Continuation High,91042,9-12,NE,6-Kelly Gonez,7705 Summitrose St Tujunga CA 91042,34.259707299999995,-118.3009182,6,10
+Paseo del Rey Elementary Natural Science Magnet,90293,K- 5,W,4-Nick Melvoin,7751 Paseo Del Rey Playa Del Rey CA 90293,33.9565362,-118.4337437,2,4
+Whitman Continuation High,90036,9-12,W,4-Nick Melvoin,7795 Rosewood Ave Los Angeles CA 90036,34.0803689,-118.3597709,8,25
+McKinley Avenue Elementary,90001,K- 6,S,7-Dr Richard A Vladovic,7812 Mc Kinley Ave Los Angeles CA 90001,33.9679734,-118.26038249999999,9,36
+Stagg Street Elementary,91406,K- 5,NW,6-Kelly Gonez,7839 Amestoy Ave Lake Balboa CA 91406,34.2129518,-118.50657920000002,1,10
+John Hope Continuation High,90003,9-12,S,7-Dr Richard A Vladovic,7840 Towne Ave Los Angeles CA 90003,33.9677886,-118.26686709999998,14,75
+Saticoy Elementary,91605,K- 5,NE,6-Kelly Gonez,7850 Ethel Ave North Hollywood CA 91605,34.212868,-118.415578,3,20
+CTC - West,90046,12-12,W,4-Nick Melvoin,7850 Melrose Ave Los Angeles CA 90046,34.082198600000005,-118.35979209999998,7,25
+Alliance Bloomfield Tech High School,90255,9-12,XR,5-Vacant,7907 Santa Fe Ave Huntington Park CA 90255,33.967152399999996,-118.23061509999998,0,0
+James Jordan Middle School,91306,6- 8,XR,3-Scott M Schmerelson,7911 Winnetka Ave Winnetka CA 91306,34.214487299999995,-118.5720986,12,19
+Strathern Street Elementary,91605,K- 5,NE,6-Kelly Gonez,7939 St Clair Ave North Hollywood CA 91605,34.214971899999995,-118.401119,7,25
+Ranchito Avenue Elementary,91402,K- 5,NE,6-Kelly Gonez,7940 Ranchito Ave Panorama City CA 91402,34.215334399999996,-118.4343055,4,23
+Palisades Charter Elementary,90272,K- 5,W,4-Nick Melvoin,800 Via De La Paz Pacific Palisades CA 90272,34.0456282,-118.52713689999999,1,2
+Glenwood Elementary,91352,K- 5,NE,6-Kelly Gonez,8001 Ledge Ave Sun Valley CA 91352,34.216264,-118.35876,9,21
+135th Street Elementary,90247,K- 5,S,1-Dr George J McKenna III,801 W 135th St Gardena CA 90247,33.9094051,-118.28961559999999,0,8
+Panorama Senior High,91402,9-12,NE,6-Kelly Gonez,8015 Van Nuys Bl Panorama City CA 91402,34.2164436,-118.44914479999998,10,37
+Park Avenue Elementary,90201,K- 6,E,5-Vacant,8020 Park Ave Cudahy CA 90201,33.960181299999995,-118.17375009999999,0,0
+Euclid Avenue Elementary,90023,K- 5,E,2-Monica Garcia,806 Euclid Ave Los Angeles CA 90023,34.030837299999995,-118.2069507,13,50
+Coeur D Alene Avenue Elementary,90291,K- 5,W,4-Nick Melvoin,810 Coeur D Alene Ave Venice CA 90291,33.989393,-118.45340630000001,6,62
+Animo James B Taylor Charter Middle School,90059,6- 6,XR,7-Dr Richard A Vladovic,810 E 111th Pl Los Angeles CA 90059,33.9349481,-118.26010840000001,16,77
+Burton Street Elementary,91402,K- 5,NE,6-Kelly Gonez,8111 Calhoun Ave Panorama City CA 91402,34.2187162,-118.4421899,2,26
+Capistrano Avenue Elementary,91304,K- 5,NW,3-Scott M Schmerelson,8118 Capistrano Ave West Hills CA 91304,34.216656,-118.61637900000001,1,13
+Grover Cleveland Charter High School,91335,9-12,NW,3-Scott M Schmerelson,8140 Vanalden Ave Reseda CA 91335,34.2177514,-118.547707,5,9
+San Pascual Avenue Elementary STEAM Magnet,90042,K- 5,C,5-Vacant,815 San Pascual Ave Los Angeles CA 90042,34.11881339999999,-118.17215049999999,0,3
+Michelle Obama Elementary School,91402,K- 5,NE,6-Kelly Gonez,8150 Cedros Ave Panorama City CA 91402,34.2189562,-118.4531438,8,62
+52nd Street Elementary,90037,K- 5,W,1-Dr George J McKenna III,816 W 51st St Los Angeles CA 90037,33.9962357,-118.28806270000001,23,77
+Animo Venice Charter High School,90291,9-12,XR,4-Nick Melvoin,820 Broadway St Venice CA 90291,33.9970333,-118.46335970000001,24,222
+Benjamin Franklin High School,90042,6-12,C,5-Vacant,820 N Avenue 54 Los Angeles CA 90042,34.11570379999999,-118.1988142,9,16
+Joaquin Miller Career and Transition Center,91335,12-12,NW,3-Scott M Schmerelson,8218 Vanalden Ave Reseda CA 91335,34.2201521,-118.54851809999998,2,9
+32nd Street USC Performing Arts Magnet,90007,K- 5,C,1-Dr George J McKenna III,822 W 32nd St Los Angeles CA 90007,34.0245568,-118.2825494,1,49
+Winnetka Avenue Elementary,91306,K- 5,NW,3-Scott M Schmerelson,8240 Winnetka Ave Winnetka CA 91306,34.2193619,-118.570024,7,15
+Augustus F Hawkins SH - Critical Design and Gaming School,90044,9-12,W,1-Dr George J McKenna III,825 W 60th St Los Angeles CA 90044,33.9857852,-118.2883825,14,83
+Animo Pat Brown,90001,9-12,XR,7-Dr Richard A Vladovic,8255 Beach St Los Angeles CA 90001,33.962983799999996,-118.2426118,0,12
+Van Deene Avenue Elementary,90502,K- 6,S,7-Dr Richard A Vladovic,826 W Javelin St Torrance CA 90502,33.8386617,-118.28842809999999,0,4
+Gulf Avenue Elementary,90744,K- 5,S,7-Dr Richard A Vladovic,828 W L St Wilmington CA 90744,33.785484999999994,-118.272723,11,29
+Loren Miller Elementary,90044,K- 6,S,1-Dr George J McKenna III,830 W 77th St Los Angeles CA 90044,33.9696084,-118.28839209999998,20,86
+KIPP Philosophers Academy,90001,5- 7,XR,7-Dr Richard A Vladovic,8300 S Central Ave Los Angeles CA 90001,33.9633181,-118.2560429,10,36
+William R Anton Elementary,90063,K- 6,E,2-Monica Garcia,831 N Bonnie Beach Pl Los Angeles CA 90063,34.046637200000006,-118.1816567,0,2
+Amanecer Primary Center,90023,K- 2,E,2-Monica Garcia,832 S Eastman Ave Los Angeles CA 90023,34.0244468,-118.18586119999999,1,10
+Noble Avenue Elementary,91343,K- 5,NE,6-Kelly Gonez,8329 Noble Ave North Hills CA 91343,34.223053,-118.46173999999999,34,73
+9th Street Elementary,90021,K- 5,C,2-Monica Garcia,835 Stanford Ave Los Angeles CA 90021,34.035713200000004,-118.2475914,55,260
+Sunland Elementary,91040,K- 5,NE,6-Kelly Gonez,8350 Hillrose St Sunland CA 91040,34.262473799999995,-118.31442179999999,5,9
+Castelar Street Elementary,90012,K- 5,C,2-Monica Garcia,840 Yale St Los Angeles CA 90012,34.064052000000004,-118.2397486,9,21
+Kentwood Elementary,90045,K- 5,W,4-Nick Melvoin,8401 Emerson Ave Los Angeles CA 90045,33.962148,-118.404979,1,5
+Graham Elementary,90001,K- 6,S,7-Dr Richard A Vladovic,8407 S Fir Ave Los Angeles CA 90001,33.9615506,-118.2379061,0,10
+Independence Elementary,90280,K- 5,E,5-Vacant,8435 Victoria Ave South Gate CA 90280,33.959584,-118.210748,0,0
+KIPP Empower Academy,90003,K- 3,XR,1-Dr George J McKenna III,8466 S Figueroa St Los Angeles CA 90003,33.961730100000004,-118.2825122,27,96
+KIPP Academy of Opportunity,90003,5- 8,XR,1-Dr George J McKenna III,8500 S Figueroa St Los Angeles CA 90003,33.9612051,-118.28239920000001,27,95
+Richard E Byrd Middle School,91352,6- 8,NE,6-Kelly Gonez,8501 Arleta Ave Sun Valley CA 91352,34.2239176,-118.40791829999999,4,17
+South Park Elementary,90003,K- 6,S,7-Dr Richard A Vladovic,8510 Towne Ave Los Angeles CA 90003,33.960869,-118.26623400000001,24,87
+Wonderland Avenue Elementary,90046,K- 5,W,4-Nick Melvoin,8510 Wonderland Ave Los Angeles CA 90046,34.114044,-118.38002790000002,2,3
+Charles Drew Middle School,90001,7- 8,S,7-Dr Richard A Vladovic,8511 Compton Ave Los Angeles CA 90001,33.9614015,-118.24800259999998,2,26
+Alliance Piera Barbaglia Shaheen Health,90044,9-12,XR,1-Dr George J McKenna III,8515 Kansas Ave Los Angeles CA 90044,33.9602855,-118.29422350000002,15,48
+Limerick Avenue Elementary Dual Language Spanish,91306,K- K,NW,3-Scott M Schmerelson,8530 Limerick Ave Winnetka CA 91306,34.225518,-118.582101,2,14
+Washington Primary Center,90044,K- 1,S,1-Dr George J McKenna III,860 W 112th St Los Angeles CA 90044,33.932968100000004,-118.29089450000001,9,34
+Panorama City Elementary,91402,K- 5,NW,6-Kelly Gonez,8600 Kester Ave Panorama City CA 91402,34.2272997,-118.456893,26,73
+Danny J Bakewell Sr Primary Center,90044,K- K,S,1-Dr George J McKenna III,8621 S Baring Cross St Los Angeles CA 90044,33.9593523,-118.2896924,18,60
+San Gabriel Avenue Elementary,90280,K- 5,E,5-Vacant,8628 San Gabriel Ave South Gate CA 90280,33.955902200000004,-118.2016199,0,0
+Odyssey Continuation High,90280,9-12,E,5-Vacant,8693 Dearborn Ave South Gate CA 90280,33.9552835,-118.2112231,0,0
+Katherine Johnson STEM Academy,90045,6- 8,W,4-Nick Melvoin,8701 Parkhill Dr Los Angeles CA 90045,33.9571099,-118.42803290000002,2,4
+La Salle Avenue Elementary,90047,K- 5,W,1-Dr George J McKenna III,8715 La Salle Ave Los Angeles CA 90047,33.958111200000005,-118.3060527,4,16
+Mervyn M Dymally Senior High,90003,9-12,S,7-Dr Richard A Vladovic,8800 S San Pedro St Los Angeles CA 90003,33.9577994,-118.26906159999999,16,84
+Langdon Avenue Elementary,91343,K- 5,NW,6-Kelly Gonez,8817 Langdon Ave North Hills CA 91343,34.2309505,-118.47019180000001,42,76
+Loyola Village Elementary Fine/Performing Arts Magnet,90045,K- 5,W,4-Nick Melvoin,8821 Villanova Ave Los Angeles CA 90045,33.957623,-118.42126699999999,4,4
+Rosa Parks Learning Center,91343,K- 5,NW,6-Kelly Gonez,8855 Noble Ave North Hills CA 91343,34.23133869999999,-118.46138159999998,42,77
+Dr Owen Lloyd Knox Elementary School,90003,K- 6,S,7-Dr Richard A Vladovic,8919 S Main St Los Angeles CA 90003,33.954806,-118.27421399999999,24,83
+Fenton Charter Leadership Academy,91352,K- 5,XR,6-Kelly Gonez,8926 Sunland Blvd Sun Valley CA 91352,34.231257799999995,-118.3661004,8,20
+Aspire Firestone Academy,90280,K- 5,XR,5-Vacant,8929 Kauffman Ave South Gate CA 90280,33.951812200000006,-118.1893801,0,0
+Harmony Elementary School,90011,K- 5,C,5-Vacant,899 E 42nd Pl Los Angeles CA 90011,34.007096399999995,-118.2605652,12,52
+Quincy Jones Elementary,90011,K- 5,C,2-Monica Garcia,900 E 33rd St Los Angeles CA 90011,34.0141071,-118.25986,17,48
+Valor Academy Middle School,91343,5- 8,XR,6-Kelly Gonez,9034 Burnet Ave North Hills CA 91343,34.234842,-118.4627182,37,81
+Primary Academy for Success School,91402,K- 2,NW,6-Kelly Gonez,9075 Willis Ave Panorama City CA 91402,34.2349969,-118.4555976,12,76
+KIPP Ignite Academy,90002,K- 1,XR,7-Dr Richard A Vladovic,9110 S Central Ave Los Angeles CA 90002,33.953556299999995,-118.2561798,12,57
+Youth Opportunities Unlimited,90044,9-12,S,1-Dr George J McKenna III,915 W Manchester Ave Los Angeles CA 90044,33.960265,-118.29034640000002,17,61
+Sun Valley Senior High,91352,9-12,NE,6-Kelly Gonez,9171 Telfair Ave Sun Valley CA 91352,34.236040100000004,-118.39702690000001,12,25
+Cheviot Hills Continuation High,90034,9-12,W,1-Dr George J McKenna III,9200 Cattaraugus Ave Los Angeles CA 90034,34.035047399999996,-118.39206920000001,6,14
+92nd Street Elementary,90002,K- 6,S,7-Dr Richard A Vladovic,9211 Grape St Los Angeles CA 90002,33.9527075,-118.23664620000001,9,37
+James Monroe Senior High,91343,9-12,NW,6-Kelly Gonez,9229 Haskell Ave North Hills CA 91343,34.237581,-118.47815530000001,7,53
+Canfield Avenue Elementary,90035,K- 5,W,1-Dr George J McKenna III,9233 Airdrome St Los Angeles CA 90035,34.0500516,-118.39047690000001,8,34
+Dearborn Elementary Charter Academy,91325,K- 5,NW,3-Scott M Schmerelson,9240 Wish Ave Northridge CA 91325,34.238636299999996,-118.5081515,2,3
+Laurel Elementary,90046,K- 8,W,4-Nick Melvoin,925 N Hayworth Ave Los Angeles CA 90046,34.0876581,-118.36290840000001,6,19
+Highland Park Continuation High,90042,9-12,C,5-Vacant,928 N Avenue 53 Los Angeles CA 90042,34.1174318,-118.2012892,8,15
+Hubert Howe Bancroft Middle School Gifted STEAM Magnet,90038,6- 8,W,4-Nick Melvoin,929 N Las Palmas Ave Los Angeles CA 90038,34.0887898,-118.3374512,20,419
+Gerald A Lawson Academy of the Arts Math Science Elementary,90044,K- 6,W,1-Dr George J McKenna III,929 W 69th St Los Angeles CA 90044,33.977528899999996,-118.290264,17,86
+Carlos Santana Arts Academy,91343,K- 5,NW,6-Kelly Gonez,9301 Columbus Ave North Hills CA 91343,34.239504100000005,-118.4650979,24,64
+Bret Harte Preparatory Middle School,90044,6- 8,W,1-Dr George J McKenna III,9301 S Hoover St Los Angeles CA 90044,33.951468,-118.28809299999999,10,58
+KIPP Corazon Preparatory Academy,90280,K- 1,XR,5-Vacant,9325 Long Beach Bl South Gate CA 90280,33.9509315,-118.21812890000001,0,4
+Plummer Elementary,91343,K- 6,NW,6-Kelly Gonez,9340 Noble Ave North Hills CA 91343,34.240065,-118.45990400000001,10,67
+Oliver Wendell Holmes Middle School,91325,6- 8,NW,3-Scott M Schmerelson,9351 Paso Robles Ave Northridge CA 91325,34.240586,-118.50636599999999,2,2
+Valor Academy High School,91343,9- 9,XR,6-Kelly Gonez,9356 Lemona Ave North Hills CA 91343,34.24046920000001,-118.4588154,6,65
+Liggett Street Elementary,91402,K- 5,NW,6-Kelly Gonez,9373 Moonbeam Ave Panorama City CA 91402,34.240811799999996,-118.44605109999999,6,14
+Vena Avenue Elementary,91331,K- 5,NE,6-Kelly Gonez,9377 Vena Ave Arleta CA 91331,34.239830100000006,-118.42073590000001,0,4
+Bert Corona Charter School,91331,6- 8,XR,6-Kelly Gonez,9400 Remick Ave Pacoima CA 91331,34.24087069999999,-118.4158815,1,8
+Olympic Primary Center,90015,K- K,C,2-Monica Garcia,950 S Albany St Los Angeles CA 90015,34.047984899999996,-118.27061470000001,20,108
+Downtown Value School,90015,K- 8,XR,2-Monica Garcia,950 W Washington Blvd Los Angeles CA 90015,34.037303,-118.27943300000001,17,63
+Vine Street Elementary,90038,K- 6,W,4-Nick Melvoin,955 N Vine St Los Angeles CA 90038,34.088233200000005,-118.3269719,30,304
+Northridge Academy Senior High,91325,9-12,NW,3-Scott M Schmerelson,9601 Zelzah Ave Northridge CA 91325,34.2452244,-118.52443840000001,1,5
+West Hollywood Elementary,90069,K- 5,W,4-Nick Melvoin,970 N Hammond St West Hollywood CA 90069,34.0891284,-118.3873362,0,0
+Alliance College Ready Middle Academy #4,90003,6- 8,XR,7-Dr Richard A Vladovic,9719 S Main St Los Angeles CA 90003,33.9476371,-118.2743145,22,91
+Tweedy Elementary,90280,K- 5,E,5-Vacant,9724 Pinehurst Ave South Gate CA 90280,33.9431147,-118.1824336,0,0
+Castle Heights Elementary,90034,K- 5,W,1-Dr George J McKenna III,9755 Cattaraugus Ave Los Angeles CA 90034,34.038346999999995,-118.39824099999998,1,18
+Superior Street Elementary,91311,K- 5,NW,3-Scott M Schmerelson,9756 Oso Ave Chatsworth CA 91311,34.247319,-118.57453799999999,1,4
+Beachy Avenue Elementary,91331,K- 5,NE,6-Kelly Gonez,9757 Beachy Ave Arleta CA 91331,34.247666100000004,-118.4381925,1,13
+Hobart Boulevard Elementary,90006,K- 5,C,2-Monica Garcia,980 S Hobart Blvd Los Angeles CA 90006,34.053174,-118.305998,11,104
+San Miguel Elementary,90280,K- 5,E,5-Vacant,9801 San Miguel Ave South Gate CA 90280,33.945307899999996,-118.2009645,0,0
+Wadsworth Avenue Elementary,90011,K- 5,C,5-Vacant,981 E 41st St Los Angeles CA 90011,34.0095555,-118.2586289,11,52
+Topeka Drive Charter for Advanced Studies,91324,K- 5,NW,3-Scott M Schmerelson,9815 Topeka Dr Northridge CA 91324,34.247694,-118.546406,1,6
+Madison Elementary,90280,K- 5,E,5-Vacant,9820 Madison Ave South Gate CA 90280,33.945632700000004,-118.2141253,0,2
+Stonehurst Avenue Elementary STEAM Magnet,91352,K- 5,NE,6-Kelly Gonez,9851 Stonehurst Ave Sun Valley CA 91352,34.2496658,-118.3698894,0,16
+Mariposa-Nabi Primary Center,90006,K- 2,C,2-Monica Garcia,987 S Mariposa Ave Los Angeles CA 90006,34.05309250000001,-118.29920659999999,12,97
+99th Street Elementary,90002,K- 6,S,7-Dr Richard A Vladovic,9900 S Wadsworth Ave Los Angeles CA 90002,33.946302,-118.25828119999998,8,79
+Pacoima Middle School,91331,6- 8,NE,6-Kelly Gonez,9919 Laurel Canyon Blvd Pacoima CA 91331,34.2499469,-118.42327579999998,1,16
+Alfred B Nobel Charter Middle School,91324,6- 8,NW,3-Scott M Schmerelson,9950 Tampa Ave Northridge CA 91324,34.251084999999996,-118.55135800000001,0,3

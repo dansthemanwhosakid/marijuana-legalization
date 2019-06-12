@@ -1,0 +1,7 @@
+./data/1555377406_raw_weed.json: Pull: Tue Apr 16 01:16:46 2019
+./data/1555377428_raw_weed.json: Pull: Tue Apr 16 01:17:08 2019
+./data/1555377652_raw_weedstore.json: Pull: Tue Apr 16 01:20:52 2019
+./data/1555377723_raw_dispensary.json: Pull: Tue Apr 16 01:22:03 2019
+./data/1555378042_raw_cannabisdispensary.json: Pull: Tue Apr 16 01:27:22 2019
+./data/1555378166_raw_cannabisdispensaries.json: Pull: Tue Apr 16 01:29:26 2019
+./data/1555437201_raw_cannabisdispensaries.json: Pull: Tue Apr 16 17:53:21 2019
